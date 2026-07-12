@@ -1,0 +1,12 @@
+README.md
+setup.py
+WEALINS_aml.egg-info/PKG-INFO
+WEALINS_aml.egg-info/SOURCES.txt
+WEALINS_aml.egg-info/dependency_links.txt
+WEALINS_aml.egg-info/top_level.txt
+config/__init__.py
+src/__init__.py
+src/data/__init__.py
+src/entities/__init__.py
+src/scoring/__init__.py
+tests/__init__.py
