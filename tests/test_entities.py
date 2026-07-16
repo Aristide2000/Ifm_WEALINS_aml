@@ -140,3 +140,40 @@ def test_transaction_rachat():
     assert trx.perte_acceptee == True
     assert trx.risque_pays_destination == "ELEVE"
     assert trx.est_suspect == True
+    
+    
+from src.entities.alerte_aml import AlerteAML, COMITE_PAR_RISQUE
+
+
+def test_alerte_medium():
+    alerte = AlerteAML(
+        id_alerte="ALT_001",
+        id_contrat="BA000001",
+        date_detection=date(2022, 3, 1),
+        type_alerte="rachat_suspect",
+        source_detection="rules_engine",
+        description="Rachat précoce détecté",
+        score_risque=0.75,
+        niveau_alerte="MEDIUM",
+    )
+    assert alerte.comite == "CAR"
+    assert alerte.est_critique == False
+    assert alerte.necessite_declaration_crf == False
+    assert alerte.statut == "ouverte"
+
+
+def test_alerte_critical():
+    alerte = AlerteAML(
+        id_alerte="ALT_002",
+        id_contrat="BA000001",
+        date_detection=date(2022, 3, 1),
+        type_alerte="pays_interdit",
+        source_detection="rules_engine",
+        description="Transaction vers pays interdit",
+        score_risque=1.0,
+        niveau_alerte="CRITICAL",
+    )
+    assert alerte.comite == "COMPLIANCE"
+    assert alerte.est_critique == True
+    assert alerte.necessite_declaration_crf == True
+    assert alerte.escalader() == "COMPLIANCE"
