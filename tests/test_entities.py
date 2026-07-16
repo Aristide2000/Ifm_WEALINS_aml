@@ -5,6 +5,8 @@ Tests pour les entités OOP
 from datetime import date
 from src.entities.client import Client
 from src.entities.contrat import Contrat, FondsUC
+from src.entities.transaction import Transaction, TYPES_OPERATIONS
+
 
 def make_client_standard():
     return Client(
@@ -97,3 +99,44 @@ def test_contrat_fonds_offshore():
     assert contrat.a_fonds_offshore == True
     assert fonds.est_suspect == True
     assert fonds.risque_juridiction == "ELEVE"
+    
+
+def make_transaction_ouverture():
+    """Transaction d'ouverture standard"""
+    return Transaction(
+        id_transaction="EVT_000001",
+        id_contrat="BA000001",
+        code_type_evt="OUV",
+        date_effet=date(2022, 1, 1),
+        montant_brut=500_000,
+        montant_net=500_000,
+    )
+
+
+def test_transaction_ouverture():
+    trx = make_transaction_ouverture()
+    assert trx.est_versement == True
+    assert trx.est_rachat == False
+    assert trx.est_arbitrage == False
+    assert trx.libelle_type == "Ouverture / Souscription"
+    assert trx.risque_pays_origine == "FAIBLE"
+
+
+def test_transaction_rachat():
+    trx = Transaction(
+        id_transaction="EVT_000002",
+        id_contrat="BA000001",
+        code_type_evt="RAP",
+        date_effet=date(2022, 3, 1),
+        montant_brut=-100_000,
+        montant_net=-97_000,
+        montant_frais=3_000,
+        pays_banque_dest="Cayman Islands",
+        perte_acceptee=True,
+        montant_penalite=3_000,
+        est_suspect=True,
+    )
+    assert trx.est_rachat == True
+    assert trx.perte_acceptee == True
+    assert trx.risque_pays_destination == "ELEVE"
+    assert trx.est_suspect == True
