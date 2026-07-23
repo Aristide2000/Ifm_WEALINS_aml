@@ -1,0 +1,1001 @@
+id_client,nom,prenom,date_naissance,nationalite,pays_residence,risque_pays,classification_pays,profession,secteur_activite,segment,patrimoine_declare,revenus_declare,structure_juridique,est_pep,type_pep,est_mep,est_sous_sanctions,est_declare_crf,screening_worldcheck,screening_dowjones,date_entree_relation
+CLI_0001,Marques,Raymond,1956-12-03,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,539655.18,47584.45,physique,False,,False,False,False,clear,clear,2019-08-07
+CLI_0002,Gérard,Astrid,1982-05-11,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,1799851.99,164233.97,physique,False,,False,False,False,clear,clear,2025-04-29
+CLI_0003,Humbert,Adélaïde,1975-06-26,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3120119.86,234410.1,physique,False,,False,False,False,clear,clear,2018-11-10
+CLI_0004,Hamel,Jacqueline,1983-09-22,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,813590.09,89754.84,physique,False,,False,False,False,clear,clear,2018-01-23
+CLI_0005,Allain,Thérèse,1951-05-26,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,402857.69,43664.83,physique,False,,False,False,False,clear,clear,2019-01-01
+CLI_0006,Lenoir,Nathalie,1981-01-06,Portugal,Portugal,0,FAIBLE,Directeur financier,Finance,HNWI,1683026.35,128855.66,physique,False,,False,False,False,clear,clear,2018-08-11
+CLI_0007,Allain,Nathalie,1963-11-19,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,mass_affluent,832081.05,45459.25,physique,False,,False,False,False,clear,clear,2024-06-12
+CLI_0008,Jacquot,Josette,1980-06-21,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,3392929.65,302974.26,physique,False,,False,False,False,clear,clear,2021-03-11
+CLI_0009,Jacquet,Jérôme,1951-06-13,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1427403.95,86641.84,physique,False,,False,False,False,clear,clear,2023-04-02
+CLI_0010,Pascal,Christiane,1945-10-06,France,France,0,FAIBLE,Expert comptable,Finance,mass_affluent,549642.87,31889.52,physique,False,,False,False,False,clear,clear,2018-03-13
+CLI_0011,Regnier,Franck,1956-12-31,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,367556.72,31257.4,physique,False,,False,False,False,clear,clear,2024-03-30
+CLI_0012,Chrétien,Susan,1961-09-22,Norway,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,367216.95,42072.19,physique,False,,False,False,False,clear,clear,2018-09-04
+CLI_0013,Dias,Émile,1993-08-28,Italy,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2348702.46,273122.3,physique,False,,False,False,False,clear,clear,2024-03-09
+CLI_0014,Vaillant,Claudine,1958-02-11,Italy,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,92461.57,physique,False,,False,False,False,clear,clear,2017-08-06
+CLI_0015,Lecoq,Clémence,1952-05-15,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,67353.39,physique,False,,False,False,False,clear,clear,2019-12-15
+CLI_0016,Morvan,Joseph,1966-05-14,France,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,353304.29,19417.61,physique,False,,False,False,False,clear,clear,2017-04-06
+CLI_0017,Couturier,Franck,1988-11-02,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1000000.0,56785.16,physique,False,,False,False,False,clear,clear,2022-02-21
+CLI_0018,Brunel,Monique,1981-10-20,Sweden,Portugal,0,FAIBLE,Directeur financier,Finance,mass_affluent,501670.56,28920.72,physique,False,,False,False,False,clear,clear,2021-01-12
+CLI_0019,Gaillard,Henriette,1949-07-02,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,307672.25,29428.89,physique,False,,False,False,False,clear,clear,2022-05-18
+CLI_0020,Leroy,Élisabeth,1988-11-18,Portugal,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,50150.88,physique,False,,False,False,False,clear,clear,2017-01-30
+CLI_0021,Da Costa,Raymond,1995-12-30,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,5531414.56,391455.71,physique,False,,False,False,False,clear,clear,2024-04-14
+CLI_0022,Cordier,Jacqueline,1987-04-26,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1692905.07,144824.63,physique,False,,False,False,False,clear,clear,2023-11-12
+CLI_0023,Briand,Valentine,1970-09-29,Finland,Finland,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2078734.27,164938.72,physique,False,,False,False,False,clear,clear,2024-02-12
+CLI_0024,Louis,Luce,1962-06-12,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,115031.28,physique,False,,False,False,False,clear,clear,2022-07-08
+CLI_0025,Legrand,Agnès,1987-05-02,Sweden,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1354485.31,151091.37,physique,False,,False,False,False,clear,clear,2022-01-15
+CLI_0026,Leblanc,Bernard,1978-05-24,Portugal,Portugal,0,FAIBLE,Expert comptable,Finance,HNWI,2142846.86,206650.17,physique,False,,False,False,False,clear,clear,2022-04-21
+CLI_0027,Teixeira,Marthe,1994-12-25,France,France,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,109703.9,physique,False,,False,False,False,clear,clear,2022-12-20
+CLI_0028,Texier,Laurence,1969-04-25,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,514154.56,35135.71,physique,False,,False,False,False,clear,clear,2021-05-10
+CLI_0029,Pinto,Audrey,1988-11-29,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1302183.35,78608.34,physique,False,,False,False,False,clear,clear,2021-12-08
+CLI_0030,Marchand,Pénélope,1963-03-07,Italy,Italy,0,FAIBLE,Rentier,Patrimoine,mass_affluent,393691.35,35114.06,physique,False,,False,False,False,hit,clear,2019-02-22
+CLI_0031,Leclerc,Gilles,1978-02-26,Luxembourg,Luxembourg,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1301210.28,132150.28,physique,False,,False,False,False,clear,clear,2019-09-06
+CLI_0032,Bourdon,Margaux,1960-01-15,France,Finland,0,FAIBLE,Banquier privé,Finance,HNWI,7250599.62,475424.43,physique,False,,False,False,False,clear,clear,2017-10-24
+CLI_0033,Perrin,Daniel,1977-01-18,Belgium,Italy,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,440031.29,30599.23,physique,False,,False,False,False,clear,hit,2022-06-30
+CLI_0034,Bertrand,Valérie,1987-03-22,Belgium,Belgium,0,FAIBLE,Héritier,Patrimoine,HNWI,1000000.0,91759.99,physique,False,,False,False,False,clear,clear,2023-04-14
+CLI_0035,Marchand,Gabriel,1993-12-29,Norway,Norway,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,614778.9,70570.63,physique,False,,False,False,False,clear,clear,2022-08-25
+CLI_0036,Prévost,Jules,1964-08-19,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,58723.77,physique,False,,False,False,False,clear,clear,2025-04-11
+CLI_0037,Gérard,Édouard,1974-06-10,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,480962.91,54443.26,physique,False,,False,False,False,clear,clear,2021-02-20
+CLI_0038,Cordier,Sophie,1989-01-31,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,97293.91,physique,False,,False,False,False,clear,clear,2024-05-06
+CLI_0039,Guichard,François,1958-12-29,Belgium,Portugal,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,102579.67,physique,False,,False,False,False,clear,clear,2017-10-29
+CLI_0040,Lopes,Simone,1986-11-10,Luxembourg,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2275710.49,205489.75,physique,False,,False,False,False,clear,clear,2019-06-17
+CLI_0041,Alves,Alain,1981-06-24,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,3324821.7,353387.62,physique,False,,False,False,False,clear,clear,2022-01-28
+CLI_0042,Gimenez,Grégoire,1988-08-07,Luxembourg,Luxembourg,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2235460.48,260437.34,physique,False,,False,False,False,clear,clear,2017-01-23
+CLI_0043,Barbe,Thibaut,1962-05-13,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,1828572.57,187656.12,physique,False,,False,False,False,clear,clear,2024-10-25
+CLI_0044,Pasquier,Tristan,1992-10-28,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1605952.21,141019.72,physique,False,,False,False,False,clear,clear,2021-09-29
+CLI_0045,Renault,François,1985-11-01,Italy,Portugal,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,77263.38,physique,False,,False,False,False,clear,clear,2021-03-12
+CLI_0046,Maréchal,Clémence,1947-10-19,Luxembourg,Sweden,0,FAIBLE,Notaire,Juridique,HNWI,1197934.11,139846.98,physique,False,,False,False,False,clear,clear,2021-12-03
+CLI_0047,Lefèvre,Danielle,1969-01-30,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1436259.7,152056.76,physique,False,,False,False,False,clear,clear,2021-04-08
+CLI_0048,Maury,Constance,1967-05-28,Norway,Norway,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,4155675.54,247258.39,physique,False,,False,False,False,clear,clear,2021-09-28
+CLI_0049,Couturier,Paul,1975-12-24,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2521924.36,140555.51,physique,False,,False,False,False,clear,pending,2024-12-01
+CLI_0050,Coulon,Martin,1977-02-20,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,51426.6,physique,False,,False,False,False,clear,clear,2017-03-18
+CLI_0051,Lelièvre,Corinne,1991-07-21,Denmark,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2487674.21,249476.42,physique,False,,False,False,False,clear,clear,2021-11-09
+CLI_0052,Lucas,Cécile,1964-07-17,Belgium,Belgium,0,FAIBLE,Héritier,Patrimoine,HNWI,1514267.53,138475.0,physique,False,,False,False,False,clear,clear,2022-01-23
+CLI_0053,Mahe,Christophe,1996-05-04,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1234472.86,98741.11,physique,False,,False,False,False,clear,clear,2022-03-30
+CLI_0054,Fernandes,Denise,1976-01-07,Finland,Finland,0,FAIBLE,Banquier privé,Finance,HNWI,3042449.19,244868.78,physique,False,,False,False,False,hit,clear,2022-10-03
+CLI_0055,Lemonnier,Charles,1991-05-03,Italy,Italy,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,4080375.86,274138.67,physique,False,,False,False,False,clear,clear,2017-07-01
+CLI_0056,Lefort,Adélaïde,1968-01-14,Portugal,Portugal,0,FAIBLE,Notaire,Juridique,HNWI,3805264.59,246765.28,physique,False,,False,False,False,clear,clear,2022-08-19
+CLI_0057,Petitjean,Constance,1949-07-16,Portugal,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1101901.34,97917.53,physique,False,,False,False,False,clear,clear,2024-03-15
+CLI_0058,Neveu,Margaux,1977-12-05,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1596862.52,132744.36,physique,False,,False,False,False,clear,clear,2016-10-04
+CLI_0059,Arnaud,Frédérique,1948-07-20,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,505096.8,51520.72,physique,False,,False,False,False,clear,clear,2020-12-04
+CLI_0060,Henry,Nicole,1983-07-22,Belgium,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3925018.37,277645.02,physique,False,,False,False,False,clear,clear,2025-01-09
+CLI_0061,Guillon,Clémence,1969-11-16,Spain,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,365247.43,30812.82,moral,False,,False,False,False,clear,clear,2025-07-19
+CLI_0062,Moulin,Vincent,1976-03-30,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1741119.26,96084.98,physique,False,,False,False,False,clear,clear,2016-10-05
+CLI_0063,Grondin,Isaac,1979-08-29,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,284209.24,26513.68,physique,False,,False,False,False,clear,clear,2019-11-22
+CLI_0064,Guillaume,Claudine,1983-10-03,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,1000000.0,103391.6,physique,False,,False,False,False,clear,clear,2022-09-10
+CLI_0065,Lemoine,Brigitte,1982-12-26,France,France,0,FAIBLE,Notaire,Juridique,HNWI,3501731.35,231826.3,physique,False,,False,False,False,clear,clear,2019-06-14
+CLI_0066,Bernard,Camille,1990-07-19,Belgium,Belgium,0,FAIBLE,Héritier,Patrimoine,HNWI,5123600.74,451488.45,physique,False,,False,False,False,clear,clear,2018-07-06
+CLI_0067,Lamy,Nicole,1947-02-22,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1885291.32,156118.82,physique,False,,False,False,False,clear,clear,2020-01-27
+CLI_0068,Fernandes,Henri,1973-11-16,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,4002673.33,225722.29,physique,False,,False,False,False,clear,clear,2019-01-27
+CLI_0069,Philippe,Daniel,1987-01-09,Luxembourg,Luxembourg,0,FAIBLE,Directeur banque centrale,Finance,HNWI,2553933.35,159016.45,physique,True,PPE1,False,False,False,clear,clear,2017-01-06
+CLI_0070,Godard,Marianne,1955-06-12,Monaco,Monaco,19,INTERDIT,Médecin chirurgien,Santé,HNWI,1262262.33,122325.02,physique,False,,False,False,False,clear,clear,2023-12-29
+CLI_0071,Jacquet,Michèle,1996-05-03,France,France,0,FAIBLE,Ancien ministre,Politique,HNWI,2553503.57,172790.27,physique,True,PPE1,False,False,False,clear,clear,2023-07-31
+CLI_0072,Vasseur,Dorothée,1989-05-20,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,5818922.1,599063.97,physique,False,,False,False,False,clear,clear,2023-03-08
+CLI_0073,Michaud,Charles,1995-12-19,Belgium,Belgium,0,FAIBLE,Héritier,Patrimoine,HNWI,1933653.49,129072.96,physique,False,,False,False,False,clear,clear,2023-10-18
+CLI_0074,Blondel,Auguste,1964-12-17,France,France,0,FAIBLE,Directeur banque centrale,Finance,HNWI,5928314.86,360310.99,physique,True,PPE1,False,False,False,clear,clear,2019-06-11
+CLI_0075,Foucher,Véronique,1988-05-18,Italy,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,85576.86,physique,False,,False,False,False,clear,clear,2018-05-31
+CLI_0076,Andre,Alexandre,1985-04-08,Italy,Italy,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3524791.18,382874.5,physique,False,,False,False,False,clear,clear,2025-03-22
+CLI_0077,Louis,Louis,1991-08-21,Sweden,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2107331.36,250043.77,physique,False,,False,False,False,clear,clear,2023-07-21
+CLI_0078,Rémy,Marianne,1948-02-12,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1608310.58,153820.96,physique,False,,False,False,False,hit,clear,2021-10-12
+CLI_0079,Chartier,Claudine,1972-10-25,Germany,Germany,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2114296.19,127049.92,physique,False,,False,False,False,hit,clear,2025-06-07
+CLI_0080,Salmon,Margot,1993-07-02,Sweden,Italy,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,110153.95,physique,False,,False,False,False,clear,clear,2019-12-19
+CLI_0081,Vidal,Olivie,1958-06-18,Finland,Italy,0,FAIBLE,Rentier,Patrimoine,mass_affluent,405198.05,41441.08,physique,False,,False,False,False,clear,clear,2021-06-19
+CLI_0082,Bonneau,Élodie,1979-03-05,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2545859.32,194093.45,physique,False,,False,False,False,clear,clear,2025-01-25
+CLI_0083,Evrard,Alice,1972-06-08,Italy,Italy,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,5579031.94,506693.25,physique,False,,False,False,False,clear,clear,2018-03-24
+CLI_0084,Jacques,Michèle,1960-02-25,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,mass_affluent,359579.98,26677.09,physique,False,,False,False,False,clear,clear,2022-01-12
+CLI_0085,Lebreton,Constance,1972-01-03,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1125856.32,84582.37,physique,False,,False,False,False,clear,clear,2020-12-08
+CLI_0086,Germain,Louis,1955-08-29,France,Finland,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1395509.4,142568.1,physique,False,,True,False,False,clear,clear,2020-06-16
+CLI_0087,Lemaire,Cécile,1948-10-01,France,France,0,FAIBLE,Banquier privé,Finance,mass_affluent,638042.93,62311.18,physique,False,,False,False,False,clear,clear,2018-01-16
+CLI_0088,Labbé,Frédéric,1987-06-01,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,2495814.72,197382.05,physique,False,,False,False,False,clear,clear,2019-07-09
+CLI_0089,Laine,Roland,1988-02-23,Germany,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,357931.15,25291.38,physique,False,,False,False,False,clear,clear,2024-09-16
+CLI_0090,Bègue,Alexandria,1981-04-19,Luxembourg,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2839922.17,301943.75,physique,False,,False,False,False,clear,clear,2019-12-13
+CLI_0091,Chartier,Agathe,1947-12-25,Spain,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2122179.71,122204.08,physique,False,,False,False,False,clear,clear,2019-07-14
+CLI_0092,Thibault,Brigitte,1958-06-03,Belgium,Belgium,0,FAIBLE,Héritier,Patrimoine,mass_affluent,651777.16,51217.11,physique,False,,False,False,False,clear,clear,2023-02-08
+CLI_0093,Barbier,Anastasie,1950-12-22,Spain,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,334094.37,32993.11,physique,False,,False,False,False,clear,clear,2022-09-11
+CLI_0094,Courtois,Astrid,1966-12-14,Sweden,Sweden,0,FAIBLE,Directeur financier,Finance,HNWI,1576371.9,119705.11,moral,False,,False,False,False,clear,clear,2022-10-14
+CLI_0095,Jacquet,Victor,1966-02-22,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1506838.48,177467.12,physique,False,,False,False,False,clear,clear,2019-03-11
+CLI_0096,Poulain,Aurore,1994-07-19,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,246371.05,15857.52,physique,False,,False,False,False,clear,clear,2024-02-10
+CLI_0097,Bonneau,Sylvie,1957-10-19,Finland,Finland,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2439452.52,146679.79,physique,False,,False,False,False,clear,clear,2023-01-08
+CLI_0098,Michel,David,1972-07-06,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2380303.81,163231.06,physique,False,,False,False,False,clear,clear,2020-10-31
+CLI_0099,Evrard,Michelle,1973-05-29,Italy,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1989869.11,105533.81,physique,False,,False,False,False,clear,clear,2018-11-27
+CLI_0100,Rodriguez,Marc,1991-06-06,France,France,0,FAIBLE,Diplomate,Politique,mass_affluent,402787.8,23183.39,physique,True,PPE1,False,False,False,clear,clear,2020-01-15
+CLI_0101,Hoarau,Alain,1953-07-08,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,119623.94,physique,False,,False,False,False,clear,clear,2024-12-28
+CLI_0102,Marie,Gilles,1978-12-24,Monaco,France,0,FAIBLE,Directeur financier,Finance,HNWI,1477036.5,118317.86,physique,False,,False,False,False,clear,clear,2020-07-19
+CLI_0103,Lebon,Olivie,1986-01-04,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1559849.4,129777.52,physique,False,,False,False,False,clear,clear,2020-11-22
+CLI_0104,Mallet,Anastasie,1966-02-22,Portugal,Portugal,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,320965.56,18794.52,moral,False,,False,False,False,clear,clear,2021-08-20
+CLI_0105,Chauvin,Alain,1958-12-02,Sweden,Sweden,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1771079.85,107736.76,physique,False,,False,False,False,clear,clear,2022-12-14
+CLI_0106,Duval,Gabrielle,1965-12-08,Norway,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,520018.85,55792.76,physique,False,,False,False,False,clear,clear,2024-12-07
+CLI_0107,Georges,Luc,1988-12-26,Finland,Luxembourg,0,FAIBLE,Rentier,Patrimoine,mass_affluent,940789.18,70156.19,physique,False,,False,False,False,clear,clear,2017-12-02
+CLI_0108,Verdier,Charles,1985-02-05,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,474411.86,35041.35,physique,False,,False,False,False,clear,clear,2017-08-13
+CLI_0109,Weber,Hortense,1945-08-25,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,490421.33,39732.91,physique,False,,False,False,False,clear,clear,2020-09-30
+CLI_0110,Lamy,Amélie,1945-08-08,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,429433.27,41525.89,physique,False,,False,False,False,clear,clear,2023-06-21
+CLI_0111,Reynaud,Marine,1955-02-02,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,205354.19,17417.52,physique,False,,False,False,False,clear,clear,2021-08-21
+CLI_0112,Sanchez,Patrick,1951-09-05,France,France,0,FAIBLE,Notaire,Juridique,HNWI,1946299.21,99868.33,physique,False,,False,False,False,clear,clear,2017-04-11
+CLI_0113,Roussel,Roland,1977-08-21,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,453201.48,52722.29,physique,False,,False,False,False,clear,clear,2018-02-18
+CLI_0114,Dupré,Bertrand,1953-11-05,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,11120151.59,728481.62,physique,False,,False,False,False,clear,clear,2019-03-07
+CLI_0115,Besnard,Robert,1952-10-28,Spain,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1732970.12,115309.79,moral,False,,False,False,False,clear,clear,2019-07-16
+CLI_0116,Delmas,Dominique,1966-11-05,Italy,Italy,0,FAIBLE,Directeur financier,Finance,HNWI,2448737.49,199384.45,physique,False,,False,False,False,clear,clear,2021-09-14
+CLI_0117,Leclerc,Augustin,1963-10-14,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,mass_affluent,436313.06,46137.09,physique,False,,False,False,False,clear,clear,2020-03-06
+CLI_0118,Girard,Arnaude,1988-06-13,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,277209.49,23699.96,physique,False,,False,False,False,clear,clear,2017-03-06
+CLI_0119,Pereira,Audrey,1973-03-01,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,4412605.86,516453.88,physique,False,,False,False,False,clear,clear,2017-09-04
+CLI_0120,Guillaume,Claire,1979-01-02,Norway,Norway,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,597657.55,55394.71,physique,False,,False,False,False,clear,clear,2021-11-17
+CLI_0121,Guillaume,Madeleine,1984-03-18,Italy,Italy,0,FAIBLE,Directeur financier,Finance,HNWI,3449439.68,336273.99,physique,False,,False,False,False,clear,clear,2018-11-28
+CLI_0122,Lelièvre,Gilbert,1968-10-03,Sweden,Sweden,0,FAIBLE,Rentier,Patrimoine,HNWI,1049084.86,100632.24,physique,False,,False,False,False,clear,clear,2023-01-04
+CLI_0123,François,Daniel,1957-05-09,Monaco,France,0,FAIBLE,Notaire,Juridique,HNWI,5293319.0,538405.85,physique,False,,False,False,False,clear,clear,2017-11-13
+CLI_0124,Delaunay,Agathe,1990-10-02,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,252523.5,30302.41,physique,False,,False,False,False,clear,clear,2024-12-07
+CLI_0125,Pons,Madeleine,1983-01-12,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2990047.9,228351.13,physique,False,,False,False,False,clear,clear,2024-06-03
+CLI_0126,Lopez,Odette,1977-04-17,Italy,Italy,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,9187173.99,852033.95,physique,False,,False,False,False,clear,clear,2021-10-21
+CLI_0127,Gomez,Patricia,1986-03-20,France,France,0,FAIBLE,Diplomate,Politique,HNWI,1000000.0,116299.11,physique,True,PPE1,False,False,False,clear,clear,2018-02-09
+CLI_0128,Delannoy,Guillaume,1980-07-18,Portugal,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1333865.38,71565.33,physique,False,,False,False,False,clear,clear,2018-01-30
+CLI_0129,Michel,Marc,1970-10-08,Germany,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,460404.42,27769.02,physique,False,,False,False,False,clear,clear,2025-05-29
+CLI_0130,Bazin,Laure,1956-02-06,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,361714.22,20151.96,physique,False,,False,False,False,clear,clear,2021-06-18
+CLI_0131,Bousquet,Victoire,1962-11-27,Portugal,Portugal,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,237930.67,14208.15,physique,False,,False,False,False,clear,clear,2018-04-16
+CLI_0132,Delahaye,Odette,1972-01-08,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2080240.53,217035.83,physique,False,,False,False,False,clear,clear,2018-04-04
+CLI_0133,Lopes,Élodie,1982-05-01,Belgium,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1000000.0,86076.3,physique,False,,False,False,False,clear,clear,2024-10-28
+CLI_0134,Traore,Virginie,1946-07-17,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2762135.59,239820.11,physique,False,,False,False,False,pending,clear,2017-11-26
+CLI_0135,Lejeune,Alix,1975-07-22,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1041740.09,57013.57,physique,False,,False,False,False,clear,clear,2017-12-13
+CLI_0136,Delahaye,Thomas,1964-09-09,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,5867587.29,613397.47,physique,False,,False,False,False,clear,clear,2018-10-19
+CLI_0137,Marchal,Claudine,1965-06-07,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1145924.96,128349.7,physique,False,,False,False,False,clear,clear,2025-03-05
+CLI_0138,Guillet,Théophile,1954-04-01,France,Finland,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1582564.1,115898.65,physique,False,,False,False,False,clear,clear,2024-11-29
+CLI_0139,Bernard,Marcel,1973-07-29,Portugal,Portugal,0,FAIBLE,Rentier,Patrimoine,HNWI,3504162.31,370776.68,physique,False,,False,False,False,clear,clear,2019-07-19
+CLI_0140,De Oliveira,Margot,1987-11-14,France,France,0,FAIBLE,Directeur banque centrale,Finance,mass_affluent,270399.09,26029.79,physique,True,PPE1,False,False,False,clear,clear,2021-10-28
+CLI_0141,Roger,Simone,1965-11-29,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2324979.91,275747.06,physique,False,,False,False,False,clear,clear,2018-11-03
+CLI_0142,Gérard,Alexandria,1992-05-18,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,4950503.9,399367.53,physique,False,,False,False,False,clear,clear,2018-06-12
+CLI_0143,Rémy,Nathalie,1948-02-14,Germany,France,0,FAIBLE,Ancien ministre,Politique,mass_affluent,232583.99,17685.9,physique,True,PPE1,False,False,False,clear,clear,2024-03-25
+CLI_0144,Breton,Zoé,1987-08-06,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,476323.99,54276.15,physique,False,,False,False,False,clear,clear,2022-06-19
+CLI_0145,Duhamel,Nicolas,1975-08-04,Portugal,France,0,FAIBLE,Expert comptable,Finance,HNWI,2378351.02,194175.68,physique,False,,False,False,False,clear,clear,2023-07-08
+CLI_0146,Dupré,Vincent,1961-02-02,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,3427274.89,243326.12,physique,False,,False,False,False,clear,clear,2016-11-24
+CLI_0147,Auger,Amélie,1948-05-19,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,51839.88,physique,False,,False,False,False,clear,clear,2019-01-30
+CLI_0148,Pages,Diane,1975-06-18,Belgium,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1000000.0,78755.66,moral,False,,False,False,False,clear,clear,2018-03-07
+CLI_0149,Barthelemy,Stéphanie,1983-07-08,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2857218.33,179254.5,physique,False,,False,False,False,clear,clear,2023-02-02
+CLI_0150,Vallée,Anaïs,1963-09-08,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,498218.43,57954.67,physique,False,,False,False,False,clear,clear,2017-07-13
+CLI_0151,Vallet,Arnaude,1978-08-23,France,France,0,FAIBLE,Ancien ministre,Politique,mass_affluent,489038.81,41656.38,physique,True,PPE1,False,False,False,clear,clear,2018-05-03
+CLI_0152,Blanc,Antoine,1980-08-08,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2526925.1,294129.73,physique,False,,False,False,False,clear,clear,2025-06-04
+CLI_0153,Goncalves,Audrey,1958-03-30,Spain,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1231794.61,103231.95,physique,False,,False,False,False,clear,clear,2024-10-21
+CLI_0154,Schneider,Charlotte,1984-06-08,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2332794.79,257316.49,physique,False,,False,False,False,pending,clear,2018-05-14
+CLI_0155,Nicolas,Jeanne,1970-09-28,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,497439.39,33504.69,physique,False,,False,False,False,clear,clear,2024-10-16
+CLI_0156,Humbert,Zacharie,1959-06-12,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,332454.88,21040.53,physique,False,,False,False,False,pending,clear,2024-03-17
+CLI_0157,Gimenez,Théophile,1946-06-05,Sweden,Sweden,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,7319423.73,546780.39,physique,False,,False,False,False,clear,clear,2018-05-15
+CLI_0158,Bonneau,Céline,1976-06-03,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2762600.61,285846.21,physique,False,,False,False,False,clear,clear,2020-02-17
+CLI_0159,Guyon,Joseph,1964-08-09,Finland,France,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,93626.91,physique,False,,False,False,False,clear,clear,2021-07-16
+CLI_0160,Collin,Matthieu,1969-11-18,France,France,0,FAIBLE,Haut fonctionnaire,Politique,HNWI,3139542.12,268865.92,physique,True,PPE1,False,False,False,clear,clear,2020-07-30
+CLI_0161,Carpentier,Marcelle,1953-09-28,Sweden,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1002214.72,72457.22,physique,False,,False,False,False,clear,clear,2023-07-27
+CLI_0162,Dijoux,Thibault,1965-08-19,Germany,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,3439921.55,260694.61,physique,False,,False,False,False,hit,clear,2017-06-28
+CLI_0163,Lacroix,Marie,1965-12-17,Italy,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,703229.26,73368.85,physique,False,,False,False,False,clear,clear,2021-06-24
+CLI_0164,Thibault,Mathilde,1963-12-28,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1116291.26,100555.43,physique,False,,False,False,False,clear,clear,2025-02-21
+CLI_0165,Maillot,Arnaude,1995-03-01,Germany,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3891725.89,395043.68,physique,False,,False,False,False,clear,clear,2019-05-26
+CLI_0166,Pottier,Dominique,1992-02-02,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2647024.27,197997.65,physique,False,,False,False,False,clear,clear,2024-03-15
+CLI_0167,Perrier,Josette,1957-03-29,Italy,Belgium,0,FAIBLE,Expert comptable,Finance,mass_affluent,614659.7,72995.89,physique,False,,False,False,False,clear,clear,2018-03-08
+CLI_0168,Costa,Suzanne,1978-06-04,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,7480087.8,728287.96,physique,False,,False,False,False,pending,clear,2023-07-26
+CLI_0169,Parent,Arnaude,1980-08-01,Sweden,Luxembourg,0,FAIBLE,Banquier privé,Finance,mass_affluent,401051.35,38468.06,physique,False,,False,False,False,clear,clear,2022-12-31
+CLI_0170,Blanchard,Marthe,1954-01-13,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,327258.46,31707.54,physique,False,,False,False,False,clear,clear,2019-02-10
+CLI_0171,Thierry,Margaux,1955-11-26,Norway,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1063780.79,64950.07,physique,False,,False,False,False,clear,clear,2020-03-15
+CLI_0172,Guyot,Renée,1947-01-12,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,319232.8,21150.9,physique,False,,False,False,False,clear,clear,2024-09-28
+CLI_0173,Perrier,Cécile,1992-10-04,Luxembourg,Luxembourg,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1878583.89,118429.34,physique,False,,False,False,False,clear,clear,2017-05-09
+CLI_0174,Chevalier,Dorothée,1958-04-24,Germany,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2517574.21,221624.66,physique,False,,False,False,False,clear,clear,2021-01-15
+CLI_0175,Imbert,Pierre,1969-01-05,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,494190.49,25196.74,physique,False,,False,False,False,clear,clear,2024-08-17
+CLI_0176,Dijoux,Madeleine,1980-02-01,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,3537844.76,342632.87,physique,False,,False,False,False,clear,clear,2024-04-23
+CLI_0177,Langlois,Martine,1968-05-17,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2000887.37,180282.78,moral,False,,False,False,False,clear,clear,2019-04-23
+CLI_0178,Berthelot,Christelle,1983-09-30,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,5484704.93,539257.98,physique,False,,False,False,False,clear,clear,2022-08-05
+CLI_0179,Giraud,Nicolas,1965-07-09,France,France,0,FAIBLE,Ancien ministre,Politique,HNWI,1647451.68,163321.52,physique,True,PPE1,False,False,False,clear,clear,2020-02-21
+CLI_0180,Voisin,Thibault,1984-05-03,Finland,Finland,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,13311227.59,1321320.75,physique,False,,False,False,False,clear,clear,2017-01-27
+CLI_0181,Vidal,Maryse,1973-12-07,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,568221.7,55470.18,physique,False,,False,False,False,clear,clear,2022-11-01
+CLI_0182,Colin,Édith,1957-03-23,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1088150.16,115870.66,physique,False,,False,False,False,clear,clear,2019-04-03
+CLI_0183,Chartier,Marie,1958-04-05,France,Portugal,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,54831.34,physique,False,,False,False,False,clear,clear,2017-06-10
+CLI_0184,Charpentier,François,1991-10-14,Italy,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2779358.46,317397.33,physique,False,,False,False,False,clear,clear,2024-07-09
+CLI_0185,Fernandes,Gabrielle,1996-01-23,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,404584.09,40842.79,moral,False,,False,False,False,clear,clear,2017-07-19
+CLI_0186,Lamy,Victoire,1967-06-22,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,3268364.76,198907.76,physique,False,,False,False,False,clear,clear,2017-01-10
+CLI_0187,Pinto,Jeannine,1968-03-02,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2761449.66,157575.97,physique,False,,False,False,False,clear,clear,2025-01-03
+CLI_0188,Morel,Audrey,1970-12-12,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,429711.11,51369.32,physique,False,,False,False,False,clear,clear,2023-04-21
+CLI_0189,Voisin,Édith,1947-07-06,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,315300.84,24892.75,physique,False,,False,False,False,clear,clear,2017-11-09
+CLI_0190,Durand,Jean,1992-10-23,Sweden,Portugal,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,96993.98,physique,False,,False,False,False,clear,clear,2018-11-01
+CLI_0191,Benoit,Alix,1958-05-18,Finland,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1450529.95,87183.56,physique,False,,False,False,False,clear,clear,2019-12-24
+CLI_0192,Mary,Aurore,1981-08-24,Belgium,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,623160.58,68111.04,physique,False,,False,False,False,clear,clear,2023-06-23
+CLI_0193,Gilles,Catherine,1965-01-11,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2303328.07,205271.52,physique,False,,False,False,False,clear,clear,2019-04-16
+CLI_0194,Simon,Laetitia,1965-12-07,Germany,Luxembourg,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,98693.84,physique,False,,False,False,False,clear,clear,2022-11-25
+CLI_0195,Bailly,Odette,1962-10-26,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2238298.75,189828.8,physique,False,,False,False,False,pending,clear,2019-11-22
+CLI_0196,Rossi,Zacharie,1964-05-13,Finland,Finland,0,FAIBLE,Héritier,Patrimoine,HNWI,2596622.62,132779.32,physique,False,,False,False,False,clear,clear,2017-05-15
+CLI_0197,Munoz,Laurence,1987-12-25,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1068001.6,104599.29,physique,False,,False,False,False,clear,clear,2025-04-27
+CLI_0198,Lacroix,Isabelle,1977-10-24,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2208021.83,138847.8,physique,False,,False,False,False,pending,clear,2024-08-15
+CLI_0199,Lemaire,Thomas,1952-04-13,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,2065217.49,225063.54,physique,False,,False,False,False,clear,clear,2024-08-26
+CLI_0200,Lucas,Philippine,1961-12-11,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,51101.22,physique,False,,False,False,False,clear,clear,2022-11-08
+CLI_0201,Pottier,Clémence,1964-02-17,Luxembourg,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2547062.14,289560.56,physique,False,,False,False,False,clear,clear,2022-09-04
+CLI_0202,Brunet,Michel,1982-09-21,Sweden,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,553664.29,45472.36,physique,False,,False,False,False,clear,clear,2020-07-08
+CLI_0203,Couturier,Lucas,1954-01-23,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,4231791.02,375313.74,physique,False,,False,False,False,clear,clear,2017-12-24
+CLI_0204,Fabre,Manon,1990-02-17,Belgium,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,4146028.46,474059.61,physique,False,,False,False,False,clear,clear,2017-07-31
+CLI_0205,Poulain,Léon,1980-12-07,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,52303.12,physique,False,,False,False,False,clear,clear,2018-12-13
+CLI_0206,Blin,Théophile,1951-12-30,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1028407.94,92216.02,physique,False,,False,False,False,clear,clear,2020-02-13
+CLI_0207,Maillot,Emmanuel,1984-03-18,Monaco,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2843438.7,152859.71,physique,False,,False,False,False,clear,clear,2019-07-26
+CLI_0208,Pons,Émile,1979-12-28,Italy,Italy,0,FAIBLE,Ancien ministre,Politique,HNWI,2840953.14,297869.3,physique,True,PPE1,False,False,False,clear,clear,2024-05-13
+CLI_0209,Legendre,Thomas,1957-04-04,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2843463.42,284112.03,physique,False,,False,False,False,clear,clear,2018-07-21
+CLI_0210,Blanchet,Chantal,1970-05-30,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,999999.0,103294.15,physique,False,,False,False,False,clear,clear,2020-01-02
+CLI_0211,Bourgeois,Sébastien,1990-01-08,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,555906.95,40420.06,physique,False,,False,False,False,clear,clear,2022-04-14
+CLI_0212,Leconte,Thérèse,1970-02-28,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,4390246.56,271603.14,physique,False,,False,False,False,clear,clear,2017-04-16
+CLI_0213,Bazin,Noël,1972-12-03,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3866271.77,327497.08,physique,False,,False,False,False,clear,clear,2023-12-31
+CLI_0214,Laine,Jules,1992-08-21,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3128217.39,334979.79,physique,False,,False,False,False,hit,clear,2016-12-09
+CLI_0215,Joubert,Susan,1962-04-30,Luxembourg,France,0,FAIBLE,Ancien ministre,Politique,mass_affluent,389996.21,27456.27,physique,True,PPE1,False,False,False,clear,clear,2019-11-08
+CLI_0216,Dupont,Cécile,1988-01-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3372883.09,404100.22,physique,False,,False,False,False,clear,clear,2023-04-23
+CLI_0217,Martel,Élisabeth,1995-01-24,Portugal,Portugal,0,FAIBLE,Ancien ministre,Politique,mass_affluent,324769.15,35511.93,physique,True,PPE1,False,False,False,clear,clear,2019-07-16
+CLI_0218,Deschamps,Hélène,1986-09-19,Germany,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1679870.01,140347.14,physique,False,,False,False,False,clear,clear,2023-12-06
+CLI_0219,Marchal,Nath,1949-03-25,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1411615.73,160935.61,physique,False,,False,False,False,clear,clear,2021-03-29
+CLI_0220,Boulay,Benoît,1964-10-12,Sweden,France,0,FAIBLE,Expert comptable,Finance,HNWI,2099714.41,168254.08,physique,False,,False,False,False,clear,clear,2023-05-28
+CLI_0221,Millet,Adélaïde,1986-12-06,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,10021676.92,852169.29,physique,False,,False,False,False,clear,clear,2022-01-28
+CLI_0222,Bruneau,Astrid,1977-04-13,France,France,0,FAIBLE,Diplomate,Politique,mass_affluent,209628.86,15515.61,moral,True,PPE1,False,False,False,clear,clear,2017-05-18
+CLI_0223,Ribeiro,Michèle,1947-11-06,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,582162.02,63713.33,physique,False,,False,False,False,clear,clear,2016-09-02
+CLI_0224,Dubois,Emmanuel,1969-02-11,Norway,Norway,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,232097.69,18185.62,physique,False,,False,False,False,clear,clear,2017-07-04
+CLI_0225,Nicolas,Raymond,1964-09-14,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,1424950.59,99011.46,physique,False,,False,False,False,clear,clear,2018-08-31
+CLI_0226,Fischer,Constance,1948-02-28,Spain,Italy,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,683909.06,59459.09,physique,False,,False,False,False,clear,clear,2021-02-10
+CLI_0227,Baudry,Anne,1975-02-21,Monaco,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2074013.16,237075.84,physique,False,,False,False,False,clear,clear,2017-09-20
+CLI_0228,Samson,Henriette,1985-03-20,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,287478.14,22095.48,physique,False,,False,False,False,clear,clear,2017-07-04
+CLI_0229,Fernandes,Joseph,1948-09-13,Belgium,Belgium,0,FAIBLE,Directeur banque centrale,Finance,HNWI,1201747.62,130917.14,physique,True,PPE1,False,False,False,clear,clear,2019-02-07
+CLI_0230,Dumas,François,1959-07-25,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,3190596.42,252357.45,physique,False,,False,False,False,clear,clear,2016-12-04
+CLI_0231,Durand,Suzanne,1959-03-03,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,330331.95,29596.27,physique,False,,False,False,False,clear,clear,2017-01-20
+CLI_0232,Martinez,Virginie,1991-03-11,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2307144.14,186637.95,physique,False,,False,False,False,clear,clear,2020-10-03
+CLI_0233,Hoareau,Henriette,1948-02-01,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,450551.98,53875.67,physique,False,,False,False,False,clear,clear,2016-12-09
+CLI_0234,Leclercq,Mathilde,1975-02-13,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1256549.16,134384.28,physique,False,,False,False,False,clear,clear,2021-09-08
+CLI_0235,Lefebvre,Agnès,1977-07-30,Norway,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,999999.0,97550.85,physique,False,,False,False,False,hit,clear,2025-07-21
+CLI_0236,Richard,Thomas,1971-12-01,Luxembourg,Luxembourg,0,FAIBLE,Directeur banque centrale,Finance,HNWI,3090190.56,308393.72,physique,True,PPE1,False,False,False,clear,clear,2020-03-25
+CLI_0237,De Oliveira,Louis,1954-01-03,France,France,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,103821.9,physique,False,,False,False,False,clear,clear,2019-02-19
+CLI_0238,Chrétien,Arnaude,1986-03-24,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2259192.53,266698.85,physique,False,,False,False,False,clear,clear,2023-09-16
+CLI_0239,Deschamps,Alexandrie,1959-10-27,Sweden,Italy,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1247621.47,91878.41,physique,False,,False,False,False,clear,clear,2017-06-28
+CLI_0240,Georges,Thierry,1968-08-27,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,622172.92,71587.4,physique,False,,False,False,False,clear,pending,2020-03-13
+CLI_0241,Mace,Olivie,1993-12-31,France,France,0,FAIBLE,Directeur banque centrale,Finance,HNWI,1138515.16,131260.31,physique,True,PPE1,False,False,False,clear,clear,2022-05-08
+CLI_0242,Verdier,Margaret,1964-08-27,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1829740.1,146463.68,physique,False,,False,False,False,clear,clear,2021-10-06
+CLI_0243,Caron,Valérie,1982-10-13,Sweden,France,0,FAIBLE,Expert comptable,Finance,HNWI,2823509.28,336479.98,physique,False,,False,False,False,clear,clear,2017-01-02
+CLI_0244,Grégoire,Auguste,1983-02-22,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3634669.11,388676.08,physique,False,,False,False,False,clear,clear,2022-06-16
+CLI_0245,Perrier,Lucas,1963-12-18,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,273725.6,16586.73,physique,False,,False,False,False,clear,clear,2024-01-20
+CLI_0246,Payet,Brigitte,1955-02-16,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1568843.27,93798.18,physique,False,,False,False,False,clear,clear,2024-06-10
+CLI_0247,Descamps,Anouk,1975-11-07,Spain,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1421947.95,91546.72,physique,False,,False,False,False,clear,clear,2022-11-03
+CLI_0248,Fontaine,Élise,1950-08-02,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,340669.58,31196.85,physique,False,,False,False,False,hit,hit,2016-11-04
+CLI_0249,Caron,Marcel,1949-06-07,Luxembourg,Luxembourg,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,6823055.62,566115.91,physique,False,,False,False,False,clear,clear,2023-11-14
+CLI_0250,Maillot,Thibault,1965-02-23,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2632612.34,223965.36,physique,False,,False,False,False,clear,clear,2024-07-01
+CLI_0251,Navarro,Denise,1960-11-03,Italy,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1000000.0,60876.4,physique,False,,False,False,False,clear,clear,2017-08-13
+CLI_0252,Lévy,Susanne,1972-09-05,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,HNWI,3769690.13,211234.19,moral,False,,False,False,False,clear,clear,2017-08-27
+CLI_0253,Carpentier,Sébastien,1982-12-17,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,999999.0,84748.82,physique,False,,False,False,False,clear,clear,2021-04-18
+CLI_0254,Duhamel,Élisabeth,1979-10-15,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,4084564.55,212621.75,physique,False,,False,False,False,clear,clear,2017-07-30
+CLI_0255,Chauveau,Anne,1952-05-04,Germany,Portugal,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,61681.7,physique,False,,False,False,False,clear,clear,2024-08-05
+CLI_0256,Leclerc,Sébastien,1948-10-17,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,364508.95,30262.82,physique,False,,False,False,False,clear,clear,2017-09-16
+CLI_0257,Descamps,Lucas,1948-01-31,Finland,Finland,0,FAIBLE,Notaire,Juridique,HNWI,4813032.04,549214.28,physique,False,,False,False,False,clear,clear,2020-01-25
+CLI_0258,Menard,Bernadette,1948-03-11,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,333344.65,18275.57,physique,False,,False,False,False,clear,clear,2022-08-28
+CLI_0259,Torres,Audrey,1976-01-02,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,528357.16,35389.83,physique,False,,True,False,False,hit,pending,2024-11-29
+CLI_0260,David,Nicolas,1951-04-29,Italy,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3410071.57,299773.13,physique,False,,False,False,False,clear,clear,2023-05-02
+CLI_0261,Grégoire,Dorothée,1985-07-17,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1036280.76,69090.63,physique,False,,False,False,False,clear,pending,2016-10-12
+CLI_0262,Hardy,Patricia,1961-05-21,Monaco,Portugal,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1901839.72,156125.94,physique,False,,False,False,False,clear,clear,2023-01-24
+CLI_0263,Poirier,Sylvie,1991-11-03,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,125000.0,8533.67,physique,False,,False,False,False,clear,clear,2025-03-15
+CLI_0264,Lombard,Philippe,1950-10-25,Portugal,Portugal,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,293679.68,16856.05,physique,False,,False,False,False,clear,clear,2022-10-14
+CLI_0265,Navarro,Anne,1991-02-27,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1661451.7,162861.87,physique,False,,False,False,False,clear,clear,2019-04-19
+CLI_0266,Blin,Laurence,1974-04-20,Finland,Finland,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,268575.33,19047.05,physique,False,,False,False,False,clear,clear,2020-12-01
+CLI_0267,Jean,Jérôme,1967-03-23,Finland,Finland,0,FAIBLE,Notaire,Juridique,mass_affluent,849976.96,46168.06,physique,False,,False,False,False,clear,clear,2025-04-07
+CLI_0268,Guillet,Clémence,1971-05-30,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,249682.02,13610.93,physique,False,,False,False,False,clear,clear,2021-12-10
+CLI_0269,Rémy,Pierre,1990-01-02,Portugal,Sweden,0,FAIBLE,Rentier,Patrimoine,mass_affluent,371009.22,29799.81,physique,False,,False,False,False,clear,clear,2022-12-30
+CLI_0270,Pichon,Marcelle,1954-03-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,466165.61,43513.0,physique,False,,False,False,False,clear,clear,2018-05-31
+CLI_0271,Lebrun,Marc,1980-01-13,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,787413.9,94163.77,physique,False,,False,False,False,clear,clear,2017-10-04
+CLI_0272,Andre,Franck,1967-02-18,Portugal,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,62587.11,physique,False,,False,False,False,clear,clear,2025-01-23
+CLI_0273,Normand,Aimé,1995-04-01,Italy,Italy,0,FAIBLE,Dirigeant PME,Industrie,HNWI,4475884.87,255167.53,physique,False,,False,False,False,clear,clear,2025-07-01
+CLI_0274,Gimenez,Paul,1988-01-01,Luxembourg,Luxembourg,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,444228.0,48307.82,physique,False,,False,False,False,clear,clear,2020-07-15
+CLI_0275,Lucas,Jeannine,1946-07-25,Italy,Italy,0,FAIBLE,Directeur financier,Finance,mass_affluent,298760.2,26714.43,physique,False,,False,False,False,pending,clear,2018-04-30
+CLI_0276,Jean,Diane,1961-06-10,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,532235.53,44419.97,physique,False,,False,False,False,clear,clear,2021-09-07
+CLI_0277,Michel,Margaux,1946-05-04,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2279215.33,260299.36,physique,False,,False,False,False,clear,clear,2016-09-03
+CLI_0278,Dufour,Aurélie,1961-05-31,Luxembourg,Luxembourg,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1302567.91,154107.13,physique,False,,False,False,False,clear,clear,2023-11-27
+CLI_0279,Charles,Julien,1961-09-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2082045.66,136637.59,physique,False,,False,False,False,clear,clear,2024-09-10
+CLI_0280,Didier,Antoinette,1984-07-12,Luxembourg,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1514022.36,157394.93,moral,False,,False,False,False,clear,clear,2020-05-07
+CLI_0281,Collet,Isabelle,1976-04-24,Italy,Italy,0,FAIBLE,Expert comptable,Finance,mass_affluent,462965.09,30861.12,physique,False,,False,False,False,clear,clear,2018-11-03
+CLI_0282,Coste,Lucas,1969-05-12,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3151822.68,310524.9,physique,False,,False,False,False,clear,clear,2018-04-22
+CLI_0283,Colin,Josette,1979-10-17,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,834348.72,63639.39,physique,False,,False,False,False,clear,clear,2023-01-02
+CLI_0284,Mercier,Margot,1965-09-15,Italy,Italy,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,116616.35,physique,False,,False,False,False,clear,clear,2023-07-02
+CLI_0285,Lagarde,Nathalie,1952-10-09,Denmark,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,999999.0,99315.23,physique,False,,False,False,False,clear,clear,2019-09-26
+CLI_0286,Rodrigues,Patrick,1956-06-11,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,101098.18,physique,False,,False,False,False,clear,clear,2022-08-10
+CLI_0287,Giraud,Guillaume,1992-09-01,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,416351.84,44829.77,physique,False,,False,False,False,clear,clear,2022-11-19
+CLI_0288,Fabre,David,1990-01-13,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2993105.53,337147.67,physique,False,,False,False,False,clear,clear,2019-01-31
+CLI_0289,Vincent,Théodore,1991-03-28,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,495041.44,34058.52,physique,False,,False,False,False,clear,clear,2016-12-08
+CLI_0290,Michaud,Marcelle,1995-03-11,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1282228.75,98856.54,physique,False,,False,False,False,hit,clear,2020-10-06
+CLI_0291,Bonneau,Philippe,1957-07-19,Luxembourg,Luxembourg,0,FAIBLE,Notaire,Juridique,mass_affluent,407074.34,36630.75,physique,False,,False,False,False,clear,hit,2024-02-01
+CLI_0292,Bouvet,Marguerite,1946-11-22,Portugal,France,0,FAIBLE,Ancien ministre,Politique,HNWI,1404089.13,149665.02,moral,True,PPE1,False,False,False,clear,hit,2024-08-04
+CLI_0293,Albert,Joseph,1953-08-11,France,France,0,FAIBLE,Directeur banque centrale,Finance,HNWI,1312500.52,132427.64,physique,True,PPE1,False,False,False,clear,clear,2018-11-21
+CLI_0294,Besson,Jérôme,1964-04-05,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,3593802.77,311149.07,physique,False,,False,False,False,clear,clear,2021-09-28
+CLI_0295,Bègue,Capucine,1963-01-14,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2545686.31,281866.71,physique,False,,False,False,False,clear,clear,2023-12-15
+CLI_0296,Lamy,Patrick,1971-05-08,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,mass_affluent,335318.52,33047.75,physique,False,,False,False,False,clear,clear,2023-02-08
+CLI_0297,Guibert,Margaux,1967-09-10,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3721807.19,405674.23,physique,False,,False,False,False,clear,hit,2022-07-21
+CLI_0298,Didier,Eugène,1966-05-13,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2458617.27,234032.92,physique,False,,False,False,False,clear,clear,2020-07-02
+CLI_0299,Charrier,Adrienne,1966-03-26,Portugal,Portugal,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3502555.78,349099.24,physique,False,,False,False,False,clear,clear,2020-05-31
+CLI_0300,Paris,Philippine,1956-05-12,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,569122.82,65029.21,physique,False,,False,False,False,clear,clear,2025-02-07
+CLI_0301,Didier,Christiane,1984-05-29,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,mass_affluent,317553.63,37228.85,physique,False,,False,False,False,clear,clear,2024-02-04
+CLI_0302,Vincent,Élise,1990-09-08,Finland,Finland,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,353602.11,31844.72,physique,False,,False,False,False,clear,clear,2020-01-15
+CLI_0303,Caron,Martin,1969-08-21,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,596549.46,67890.96,physique,False,,False,False,False,clear,clear,2020-12-11
+CLI_0304,Brunet,Astrid,1946-07-14,Luxembourg,France,0,FAIBLE,Banquier privé,Finance,HNWI,3039669.0,333181.26,physique,False,,False,False,False,clear,clear,2022-02-17
+CLI_0305,Ramos,Adélaïde,1977-05-07,Belgium,Belgium,0,FAIBLE,Expert comptable,Finance,mass_affluent,438729.95,40171.9,moral,False,,False,False,False,clear,clear,2017-12-09
+CLI_0306,Richard,Raymond,1988-08-03,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,463671.2,28049.81,physique,False,,False,False,False,clear,clear,2022-06-13
+CLI_0307,Alexandre,Bertrand,1984-02-29,Italy,Italy,0,FAIBLE,Expert comptable,Finance,HNWI,4849399.43,342815.32,physique,False,,False,False,False,clear,clear,2017-09-23
+CLI_0308,Cohen,Olivie,1977-03-29,Belgium,Belgium,0,FAIBLE,Directeur banque centrale,Finance,HNWI,1310474.74,114567.54,physique,True,PPE1,False,False,False,clear,clear,2020-03-30
+CLI_0309,Jean,Anne,1946-09-15,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,2907976.88,296219.09,physique,False,,False,False,False,clear,clear,2017-10-09
+CLI_0310,Delahaye,René,1951-07-22,Luxembourg,Luxembourg,0,FAIBLE,Rentier,Patrimoine,mass_affluent,408041.0,45732.85,physique,False,,False,False,False,clear,clear,2017-03-09
+CLI_0311,Moulin,Suzanne,1954-10-12,Germany,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1702525.27,144771.54,physique,False,,False,False,False,clear,clear,2021-04-08
+CLI_0312,Roche,Océane,1995-10-07,Denmark,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,686602.46,81750.63,physique,False,,False,False,False,clear,clear,2016-09-05
+CLI_0313,Ramos,Éric,1961-12-20,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3533471.75,364949.43,physique,False,,False,False,False,clear,clear,2021-11-30
+CLI_0314,Chauvet,Jeanne,1988-07-19,Italy,Italy,0,FAIBLE,Dirigeant PME,Industrie,HNWI,3504143.72,184460.83,physique,False,,False,False,False,clear,clear,2017-02-13
+CLI_0315,Alexandre,Corinne,1994-10-31,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,4944741.1,550789.57,physique,False,,False,False,False,clear,clear,2019-02-13
+CLI_0316,Adam,Noémi,1973-02-06,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2012126.52,148190.02,physique,False,,False,False,False,pending,clear,2024-07-05
+CLI_0317,Roy,Pénélope,1985-03-04,Sweden,Sweden,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3195860.96,209976.04,physique,False,,False,False,False,clear,clear,2023-09-13
+CLI_0318,Godard,Patricia,1964-04-22,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1595684.36,139512.82,physique,False,,False,False,False,pending,clear,2020-02-21
+CLI_0319,Daniel,Alfred,1965-08-06,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2487817.67,246619.29,physique,False,,False,False,False,clear,clear,2021-08-09
+CLI_0320,Prévost,Julien,1955-12-18,Luxembourg,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1810113.05,103799.12,physique,False,,False,False,False,clear,clear,2020-05-15
+CLI_0321,Fontaine,Alfred,1986-09-25,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,459915.65,36187.51,physique,False,,False,False,False,clear,clear,2022-09-20
+CLI_0322,Carlier,Christiane,1989-12-23,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,561329.19,54354.37,physique,False,,False,False,False,clear,clear,2020-09-16
+CLI_0323,Da Costa,Hortense,1975-11-21,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,318925.15,17064.29,moral,False,,False,False,False,clear,clear,2023-02-01
+CLI_0324,Roche,Jeannine,1957-01-20,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,999999.0,59687.55,physique,False,,False,False,False,clear,clear,2019-03-09
+CLI_0325,Leroy,Guy,1967-08-14,Luxembourg,Luxembourg,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,117361.7,physique,False,,False,False,False,clear,clear,2017-02-07
+CLI_0326,Fernandes,Emmanuelle,1971-03-12,France,Italy,0,FAIBLE,Directeur financier,Finance,mass_affluent,272208.76,29699.2,physique,False,,False,False,False,clear,clear,2016-10-16
+CLI_0327,Mace,Julien,1983-07-27,Spain,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,4460081.56,450064.62,physique,False,,False,False,False,clear,clear,2018-11-09
+CLI_0328,Vaillant,Corinne,1982-02-04,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3450963.02,352183.43,physique,False,,False,False,False,clear,clear,2024-07-16
+CLI_0329,Vidal,Alix,1984-05-25,Sweden,Sweden,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,3069066.1,227732.27,physique,False,,False,False,False,clear,clear,2016-11-04
+CLI_0330,Chartier,Jeannine,1962-08-28,Belgium,Belgium,0,FAIBLE,Haut fonctionnaire,Politique,mass_affluent,568830.74,47127.76,physique,True,PPE1,False,False,False,clear,clear,2018-08-26
+CLI_0331,Wagner,Colette,1993-10-26,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1965834.23,130629.68,physique,False,,False,False,False,clear,clear,2016-08-18
+CLI_0332,Nguyen,Bernard,1978-04-01,Finland,Finland,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1058032.85,55555.44,physique,False,,False,False,False,clear,clear,2025-05-03
+CLI_0333,Normand,Thérèse,1973-08-28,Germany,Germany,0,FAIBLE,Directeur financier,Finance,HNWI,2090812.26,157718.28,physique,False,,False,False,False,clear,clear,2019-12-04
+CLI_0334,Colin,Catherine,1954-01-06,Belgium,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1234265.73,118642.21,physique,False,,False,False,False,clear,clear,2021-03-02
+CLI_0335,Leblanc,Auguste,1972-04-26,Italy,Italy,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,653467.38,65464.31,physique,False,,False,False,False,clear,clear,2017-09-20
+CLI_0336,Labbé,Adèle,1964-01-18,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1788807.64,184248.0,physique,False,,False,False,False,clear,clear,2025-06-20
+CLI_0337,Lévy,Charlotte,1952-02-08,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1112535.23,112961.24,physique,False,,False,False,False,clear,clear,2025-05-27
+CLI_0338,Vincent,Pauline,1971-11-02,Luxembourg,Luxembourg,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1583312.79,152040.03,physique,False,,False,False,False,clear,clear,2023-05-12
+CLI_0339,Bousquet,Honoré,1995-02-24,Sweden,France,0,FAIBLE,Expert comptable,Finance,mass_affluent,521869.37,42636.31,physique,False,,False,False,False,clear,clear,2023-03-12
+CLI_0340,Valentin,Paul,1988-02-16,Portugal,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1336270.14,85604.45,physique,False,,False,False,False,clear,clear,2024-03-17
+CLI_0341,Boutin,Agnès,1994-04-08,Belgium,Belgium,0,FAIBLE,Parlementaire,Politique,HNWI,1115090.05,105466.8,moral,True,PPE1,False,False,False,clear,clear,2023-10-03
+CLI_0342,Martins,Audrey,1991-09-04,Belgium,Belgium,0,FAIBLE,Ancien ministre,Politique,HNWI,2351540.13,257049.38,physique,True,PPE1,False,False,False,clear,clear,2025-06-17
+CLI_0343,Baron,Marianne,1972-05-08,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2353647.0,141807.2,physique,False,,False,False,False,clear,clear,2018-09-08
+CLI_0344,Boulay,Virginie,1963-11-06,Norway,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1390452.48,141782.9,physique,False,,False,False,False,clear,clear,2019-01-11
+CLI_0345,Vallée,Suzanne,1996-06-01,Italy,Italy,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1425842.16,126399.08,physique,False,,False,False,False,clear,clear,2017-08-23
+CLI_0346,Bouvet,Matthieu,1961-07-10,Italy,Italy,0,FAIBLE,Rentier,Patrimoine,HNWI,2332462.08,212690.16,physique,False,,False,False,False,clear,clear,2020-03-03
+CLI_0347,Maillard,Anouk,1969-09-05,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,247896.42,18940.25,moral,False,,False,False,False,clear,clear,2024-10-06
+CLI_0348,Le Goff,Christelle,1988-04-15,Portugal,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,91781.62,physique,False,,False,False,False,clear,clear,2020-08-31
+CLI_0349,Martin,Virginie,1953-12-01,France,France,0,FAIBLE,Banquier privé,Finance,mass_affluent,331911.06,20867.53,physique,False,,False,False,False,clear,clear,2017-07-03
+CLI_0350,Perrier,Robert,1968-09-01,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,406208.21,47332.02,physique,False,,False,False,False,clear,clear,2016-12-28
+CLI_0351,Rodriguez,Andrée,1968-03-30,Portugal,Portugal,0,FAIBLE,Directeur financier,Finance,HNWI,2464834.68,230410.82,physique,False,,False,False,False,clear,clear,2018-03-23
+CLI_0352,Guillot,Brigitte,1962-05-21,Luxembourg,Luxembourg,0,FAIBLE,Ancien ministre,Politique,HNWI,5569129.7,479951.76,physique,True,PPE1,False,False,False,clear,clear,2019-02-23
+CLI_0353,Jacob,Adèle,1966-09-16,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3614130.06,422633.96,physique,False,,False,False,False,clear,clear,2024-10-17
+CLI_0354,Joly,Jeanne,1990-08-21,Norway,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1772750.81,197669.88,physique,False,,False,False,False,clear,clear,2017-10-21
+CLI_0355,Le Roux,Monique,1955-02-17,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1956540.96,206601.01,physique,False,,False,False,False,clear,clear,2024-11-21
+CLI_0356,Girard,Bernard,1983-10-28,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,50412.92,physique,False,,False,False,False,clear,clear,2021-10-19
+CLI_0357,Cohen,Michèle,1987-03-05,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1957230.08,109713.25,physique,False,,False,False,False,clear,clear,2016-07-23
+CLI_0358,Bigot,Madeleine,1959-02-21,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,394169.6,37202.99,physique,False,,False,False,False,clear,clear,2022-02-02
+CLI_0359,Faivre,Dominique,1948-05-07,Sweden,Sweden,0,FAIBLE,Directeur financier,Finance,mass_affluent,503373.35,25345.9,physique,False,,False,False,False,clear,clear,2023-06-01
+CLI_0360,Albert,Charles,1947-09-30,Spain,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1111185.85,66639.88,physique,False,,False,False,False,clear,clear,2021-12-12
+CLI_0361,Valette,Gérard,1966-09-15,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,544562.83,48181.03,physique,False,,False,False,False,clear,clear,2024-11-26
+CLI_0362,Joubert,Corinne,1995-09-10,Portugal,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,816755.91,44828.97,physique,False,,False,False,False,clear,clear,2017-04-05
+CLI_0363,Thomas,Patricia,1958-05-24,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,HNWI,1837410.67,132155.83,physique,False,,False,False,False,clear,clear,2024-11-25
+CLI_0364,Dias,Benoît,1973-06-07,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2626593.21,187494.17,physique,False,,False,False,False,clear,clear,2019-11-05
+CLI_0365,Martel,Michelle,1975-05-19,Finland,Finland,0,FAIBLE,Rentier,Patrimoine,HNWI,3214237.74,177676.62,physique,False,,False,False,False,clear,clear,2019-08-27
+CLI_0366,Raynaud,Bernadette,1966-12-08,Norway,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1497257.52,131425.37,physique,False,,False,False,False,clear,clear,2019-12-23
+CLI_0367,Bernier,Bernadette,1987-10-03,Sweden,Sweden,0,FAIBLE,Expert comptable,Finance,mass_affluent,483901.66,41205.05,physique,False,,False,False,False,clear,clear,2020-06-11
+CLI_0368,Schneider,Xavier,1970-10-02,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2000313.91,235519.94,physique,False,,False,False,False,clear,clear,2023-11-03
+CLI_0369,Blanchard,Théophile,1989-09-22,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2123069.06,223776.22,physique,False,,False,False,False,clear,clear,2024-04-07
+CLI_0370,Antoine,Noémi,1968-11-14,Finland,France,0,FAIBLE,Directeur financier,Finance,HNWI,1154171.3,78982.39,physique,False,,False,False,False,clear,clear,2024-11-24
+CLI_0371,Georges,Élise,1946-07-21,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2017071.21,150680.99,physique,False,,False,False,False,clear,clear,2017-05-29
+CLI_0372,Pinto,Thibaut,1950-01-25,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,539932.45,32675.0,physique,False,,False,False,False,clear,clear,2023-05-23
+CLI_0373,Alexandre,Roland,1978-05-26,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,790528.86,48449.33,physique,False,,False,False,False,clear,clear,2021-02-02
+CLI_0374,Legros,Augustin,1955-08-19,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,649337.79,74395.46,physique,False,,False,False,False,clear,clear,2020-04-30
+CLI_0375,Fischer,Lucas,1955-04-01,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,8950569.51,1069542.11,moral,False,,False,False,False,clear,clear,2019-01-04
+CLI_0376,Meunier,Alexandrie,1979-02-06,Belgium,Belgium,0,FAIBLE,Banquier privé,Finance,mass_affluent,325481.52,31894.38,physique,False,,False,False,False,clear,clear,2019-11-08
+CLI_0377,Poirier,Juliette,1983-04-02,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,3651411.8,220798.26,physique,False,,False,False,False,clear,clear,2025-01-29
+CLI_0378,Lebrun,Agnès,1961-07-24,Portugal,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,476077.91,41775.85,physique,False,,False,False,False,clear,clear,2025-06-26
+CLI_0379,Alexandre,Alfred,1971-08-01,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,9182977.47,704210.9,physique,False,,False,False,False,clear,clear,2025-06-23
+CLI_0380,Benard,Emmanuel,1978-02-18,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1126010.26,125407.86,physique,False,,False,False,False,clear,clear,2022-11-08
+CLI_0381,Pasquier,Camille,1951-12-07,Monaco,Italy,0,FAIBLE,Notaire,Juridique,mass_affluent,316194.01,24858.91,physique,False,,False,False,False,clear,clear,2020-03-31
+CLI_0382,Masson,Geneviève,1947-06-04,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1303319.65,102865.77,moral,False,,False,False,False,clear,clear,2025-05-03
+CLI_0383,Camus,Margot,1958-10-31,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,110468.14,physique,False,,False,False,False,clear,clear,2024-03-22
+CLI_0384,Schneider,Noël,1987-02-17,Luxembourg,Luxembourg,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1372262.62,136506.23,physique,False,,False,False,False,hit,clear,2019-11-01
+CLI_0385,Valette,Michelle,1990-08-08,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1165437.53,107956.83,physique,False,,False,False,False,clear,clear,2021-07-18
+CLI_0386,Marie,Marine,1967-07-03,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,469844.71,37929.64,physique,False,,False,False,False,clear,clear,2017-01-06
+CLI_0387,Roche,Anouk,1952-05-02,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2518638.87,189355.8,physique,False,,False,False,False,hit,clear,2021-01-03
+CLI_0388,Hoareau,Thibault,1993-07-07,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,7372884.62,404057.69,physique,False,,False,False,False,clear,clear,2020-04-25
+CLI_0389,Camus,Odette,1980-05-29,Luxembourg,Luxembourg,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,647043.97,50648.63,physique,False,,False,False,False,clear,clear,2017-04-23
+CLI_0390,Benoit,Jean,1968-05-01,Finland,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,351244.74,37555.2,physique,False,,False,False,False,clear,clear,2018-05-03
+CLI_0391,Bernier,Denis,1975-08-22,Germany,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1057173.85,116650.29,physique,False,,False,False,False,clear,clear,2020-02-01
+CLI_0392,Thierry,Luc,1985-01-19,Italy,Italy,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2797798.51,141794.17,physique,False,,False,False,False,clear,clear,2017-01-24
+CLI_0393,Ollivier,René,1953-11-02,Belgium,Belgium,0,FAIBLE,Banquier privé,Finance,HNWI,1000000.0,90159.88,physique,False,,False,False,False,clear,clear,2020-01-28
+CLI_0394,Léger,Gilles,1946-10-04,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,920418.29,62108.61,physique,False,,False,False,False,clear,clear,2020-03-03
+CLI_0395,Guérin,Brigitte,1959-11-17,Norway,Luxembourg,0,FAIBLE,Directeur financier,Finance,HNWI,4527172.29,495094.92,physique,False,,False,False,False,clear,clear,2019-06-22
+CLI_0396,Goncalves,Matthieu,1982-07-04,Sweden,Sweden,0,FAIBLE,Notaire,Juridique,mass_affluent,366711.14,24036.63,physique,False,,False,False,False,clear,clear,2019-08-03
+CLI_0397,Bourgeois,Juliette,1979-10-13,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,58425.77,physique,False,,False,False,False,clear,clear,2019-11-19
+CLI_0398,Chartier,Franck,1982-02-17,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,5115116.14,340665.41,physique,False,,False,False,False,clear,clear,2017-04-13
+CLI_0399,Masse,Franck,1983-03-18,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1829991.92,164696.86,physique,False,,False,False,False,clear,clear,2022-07-04
+CLI_0400,Pichon,Agathe,1981-09-02,Portugal,Portugal,0,FAIBLE,Banquier privé,Finance,HNWI,4715999.42,501767.18,physique,False,,False,False,False,clear,pending,2023-05-16
+CLI_0401,Gautier,Frédéric,1974-03-08,Norway,Finland,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,53339.65,physique,False,,False,False,False,clear,clear,2017-06-06
+CLI_0402,Briand,Christine,1954-11-05,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1303335.73,150182.23,physique,False,,False,False,False,clear,clear,2018-07-15
+CLI_0403,Langlois,Madeleine,1962-08-12,Sweden,Sweden,0,FAIBLE,Diplomate,Politique,mass_affluent,443342.32,52560.94,physique,True,PPE1,False,False,False,clear,clear,2024-04-22
+CLI_0404,Sanchez,Margaud,1948-07-30,Portugal,Italy,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2049049.15,194333.14,physique,False,,False,False,False,clear,clear,2023-07-01
+CLI_0405,François,Claude,1950-10-15,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1446929.34,99437.42,physique,False,,False,False,False,clear,clear,2019-12-31
+CLI_0406,Schmitt,Laure,1954-10-08,Portugal,Finland,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3066339.16,180155.99,physique,False,,False,False,False,clear,clear,2016-11-01
+CLI_0407,Couturier,Pénélope,1957-09-22,Portugal,Portugal,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,288644.71,14964.94,physique,False,,False,False,False,clear,clear,2022-02-23
+CLI_0408,Lemaire,Vincent,1953-05-20,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1794674.74,145406.75,physique,False,,False,False,False,clear,clear,2022-11-03
+CLI_0409,Maurice,Alexandrie,1959-10-25,Norway,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2156952.58,190670.66,physique,False,,False,False,False,clear,clear,2024-08-15
+CLI_0410,Michaud,Catherine,1950-08-06,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2842251.8,203722.07,physique,False,,False,False,False,clear,clear,2016-09-07
+CLI_0411,Payet,Gilbert,1972-09-03,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3262911.38,270312.16,physique,False,,False,False,False,clear,clear,2017-02-23
+CLI_0412,Pages,Élodie,1976-05-04,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,282135.62,17830.96,physique,False,,False,False,False,clear,clear,2019-03-31
+CLI_0413,Georges,Christiane,1979-05-20,Portugal,Portugal,0,FAIBLE,Directeur financier,Finance,mass_affluent,239510.93,24793.62,physique,False,,False,False,False,clear,clear,2018-05-24
+CLI_0414,Marques,Camille,1972-09-15,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,4849439.92,279933.65,physique,False,,False,False,False,clear,clear,2024-05-21
+CLI_0415,Lacombe,Monique,1994-02-02,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2502047.13,147002.14,physique,False,,False,False,False,clear,clear,2017-01-08
+CLI_0416,Prévost,Édith,1989-12-17,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1174155.15,123755.64,physique,False,,False,False,False,clear,clear,2018-06-18
+CLI_0417,Morel,Philippine,1964-12-10,Finland,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,5872590.36,634108.47,physique,False,,False,False,False,clear,clear,2024-02-06
+CLI_0418,Labbé,Martin,1991-05-11,Italy,Italy,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,463364.77,55023.69,physique,False,,False,False,False,clear,clear,2016-09-16
+CLI_0419,Andre,Pauline,1982-11-28,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,4526719.35,321020.97,physique,False,,False,False,False,clear,clear,2018-09-13
+CLI_0420,Moulin,Noémi,1959-03-24,Germany,Germany,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,454524.63,47834.2,physique,False,,False,False,False,clear,clear,2019-06-22
+CLI_0421,Julien,Margaud,1967-12-22,France,France,0,FAIBLE,Expert comptable,Finance,mass_affluent,999999.0,73689.47,physique,False,,False,False,False,clear,clear,2022-06-24
+CLI_0422,Cordier,Hortense,1961-04-17,Sweden,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,892816.49,93923.69,physique,False,,False,False,False,clear,clear,2017-01-22
+CLI_0423,Valentin,Lucas,1982-08-29,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,400478.09,35695.31,physique,False,,False,False,False,clear,clear,2018-02-21
+CLI_0424,Leroux,Thierry,1989-08-02,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3914114.44,341231.01,physique,False,,False,False,False,clear,clear,2024-05-04
+CLI_0425,Marchal,Vincent,1964-08-17,Denmark,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3115073.06,324968.03,physique,False,,False,False,False,clear,clear,2018-12-02
+CLI_0426,Salmon,Victor,1948-03-25,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,5168236.52,406669.5,physique,False,,False,False,False,clear,clear,2024-07-26
+CLI_0427,Ledoux,Zoé,1966-08-29,France,France,0,FAIBLE,Héritier,Patrimoine,mass_affluent,300748.79,27058.63,physique,False,,False,False,False,clear,clear,2023-09-07
+CLI_0428,Jacquot,Laurent,1955-09-18,Portugal,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3205042.86,368542.3,physique,False,,False,False,False,clear,clear,2018-02-13
+CLI_0429,Diallo,Édith,1976-12-27,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,4159465.51,285368.84,physique,False,,False,False,False,clear,clear,2022-06-17
+CLI_0430,Samson,Manon,1996-04-18,Luxembourg,Luxembourg,0,FAIBLE,Ancien ministre,Politique,mass_affluent,218929.32,13906.03,physique,True,PPE1,False,False,False,clear,clear,2022-03-31
+CLI_0431,Ferreira,Astrid,1992-06-27,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,96566.96,physique,False,,False,False,False,clear,clear,2025-04-07
+CLI_0432,Vaillant,Marie,1976-05-30,Sweden,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,88505.69,physique,False,,False,False,False,clear,clear,2022-04-16
+CLI_0433,Fontaine,Édouard,1990-04-13,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,mass_affluent,397216.7,45612.51,physique,False,,False,False,False,hit,clear,2017-05-21
+CLI_0434,Rousseau,Véronique,1953-05-10,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3276477.86,389598.15,physique,False,,False,False,False,clear,clear,2016-12-11
+CLI_0435,Pascal,Marie,1983-05-20,Luxembourg,Luxembourg,0,FAIBLE,Banquier privé,Finance,HNWI,5675390.54,298761.3,physique,False,,False,False,False,clear,clear,2017-03-10
+CLI_0436,Schneider,Benjamin,1967-11-17,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,455721.84,45868.69,physique,False,,False,False,False,clear,clear,2023-04-28
+CLI_0437,Faure,Charles,1979-08-01,Monaco,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,6199820.4,475577.24,physique,False,,False,False,False,clear,clear,2024-01-20
+CLI_0438,Tessier,Lorraine,1975-09-06,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,254729.99,23476.2,physique,False,,False,False,False,clear,clear,2021-09-18
+CLI_0439,Didier,Hélène,1983-05-08,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,223831.1,21746.19,physique,False,,False,False,False,hit,clear,2020-01-17
+CLI_0440,Riou,Bertrand,1988-02-27,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1907142.51,171644.43,physique,False,,False,False,False,clear,clear,2022-12-08
+CLI_0441,Monnier,Henriette,1949-06-05,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,515878.31,46425.51,physique,False,,False,False,False,pending,clear,2018-02-17
+CLI_0442,Fontaine,Raymond,1986-02-27,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1937896.52,154349.28,physique,False,,False,False,False,clear,clear,2017-11-04
+CLI_0443,Roux,Michelle,1967-06-04,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,80832.44,moral,False,,False,False,False,clear,clear,2022-02-21
+CLI_0444,Sauvage,Manon,1950-07-30,Denmark,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1862845.98,206426.93,physique,False,,False,False,False,clear,clear,2024-09-09
+CLI_0445,Picard,Simone,1994-01-11,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,262554.04,26918.32,physique,False,,False,False,False,clear,pending,2021-06-23
+CLI_0446,Roche,Robert,1970-08-19,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,HNWI,3168506.14,221418.21,physique,False,,False,False,False,clear,clear,2023-04-22
+CLI_0447,Dumas,Lucie,1974-10-08,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,512286.49,29483.32,physique,False,,False,False,False,clear,clear,2020-04-24
+CLI_0448,Robert,Margaud,1951-07-11,Norway,Norway,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1026929.82,64747.12,physique,False,,False,False,False,clear,clear,2024-01-12
+CLI_0449,Maillot,Yves,1949-05-04,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1383729.79,135469.63,physique,False,,False,False,False,clear,pending,2021-04-23
+CLI_0450,Marie,Jacques,1963-03-26,France,Norway,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,289616.99,33722.47,physique,False,,False,False,False,clear,clear,2022-06-15
+CLI_0451,Gaudin,Constance,1989-08-18,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1897645.82,126810.67,physique,False,,False,False,False,hit,clear,2016-11-05
+CLI_0452,Rémy,Caroline,1961-04-19,Italy,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,648266.35,46435.25,physique,False,,False,False,False,clear,clear,2024-01-04
+CLI_0453,Collet,Philippe,1958-05-21,Monaco,Monaco,19,INTERDIT,Parlementaire,Politique,mass_affluent,298256.63,26548.96,physique,True,PPE1,False,False,False,clear,clear,2024-10-29
+CLI_0454,Mace,Jeannine,1995-06-07,Sweden,Sweden,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2821650.52,288352.03,physique,False,,False,False,False,clear,clear,2018-04-16
+CLI_0455,Guichard,Gilles,1979-07-01,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,357859.94,32097.54,moral,False,,False,False,False,clear,clear,2017-07-01
+CLI_0456,Ramos,Claude,1946-12-02,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1138234.59,71570.32,physique,False,,False,False,False,clear,clear,2022-01-30
+CLI_0457,Schneider,Louis,1959-02-16,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1839636.85,219242.47,moral,False,,False,False,False,clear,clear,2018-02-06
+CLI_0458,Perrier,Michel,1980-06-19,Denmark,Denmark,0,FAIBLE,Rentier,Patrimoine,HNWI,1000000.0,104335.03,physique,False,,False,False,False,clear,clear,2019-08-05
+CLI_0459,Perez,Gilbert,1965-08-31,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1345727.73,116332.02,physique,False,,False,False,False,clear,clear,2021-06-12
+CLI_0460,Auger,Olivie,1972-09-20,Monaco,Monaco,19,INTERDIT,Avocat d'affaires,Juridique,HNWI,1000000.0,117381.46,physique,False,,False,False,False,clear,clear,2019-04-03
+CLI_0461,Grondin,Suzanne,1984-06-21,Italy,Italy,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,970813.88,58206.87,physique,False,,False,False,False,clear,clear,2018-07-05
+CLI_0462,Grenier,Robert,1971-03-12,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2032311.73,105159.63,physique,False,,False,False,False,clear,clear,2021-07-31
+CLI_0463,Pinto,Lucy,1985-01-11,Sweden,Sweden,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1214924.08,71252.98,physique,False,,False,False,False,clear,clear,2023-05-11
+CLI_0464,Thierry,Astrid,1974-08-16,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2303144.54,122235.77,moral,False,,False,False,False,clear,clear,2021-06-10
+CLI_0465,Perrin,Étienne,1991-09-04,Finland,Finland,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1832827.41,190255.05,physique,False,,False,False,False,clear,clear,2020-01-09
+CLI_0466,Diaz,Alix,1945-12-14,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,404987.77,20412.41,physique,False,,False,False,False,clear,clear,2017-05-30
+CLI_0467,Marty,Denis,1963-01-24,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3047757.68,286502.87,physique,False,,False,False,False,clear,clear,2017-03-17
+CLI_0468,Lefort,Thérèse,1947-11-01,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,598991.74,68540.79,physique,False,,False,False,False,clear,clear,2023-12-30
+CLI_0469,Imbert,Claire,1970-10-28,Portugal,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1367711.14,140126.71,physique,False,,False,False,False,clear,clear,2018-05-06
+CLI_0470,Normand,Catherine,1985-11-20,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1325005.58,78729.45,physique,False,,False,False,False,clear,clear,2021-05-09
+CLI_0471,Brun,Marthe,1954-11-20,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,mass_affluent,396320.82,22248.22,physique,False,,False,False,False,clear,clear,2017-01-20
+CLI_0472,Didier,Thierry,1978-04-25,Portugal,Portugal,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,176174.72,10408.39,physique,False,,False,False,False,clear,clear,2020-08-12
+CLI_0473,Leclercq,Marie,1954-08-22,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,82541.99,moral,False,,False,False,False,clear,clear,2021-07-01
+CLI_0474,Besnard,Aurélie,1952-11-23,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,5161882.97,330789.46,physique,False,,False,False,False,clear,clear,2018-01-30
+CLI_0475,Guyot,Christophe,1971-07-15,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,6271194.47,735033.52,physique,False,,True,False,False,clear,clear,2022-09-06
+CLI_0476,Bonnet,Luce,1979-05-02,Luxembourg,Luxembourg,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,400466.58,45030.1,physique,False,,False,False,False,clear,clear,2020-02-02
+CLI_0477,Delmas,Jacqueline,1992-03-31,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,557168.39,28588.47,physique,False,,False,False,False,clear,clear,2017-03-01
+CLI_0478,Richard,Laure,1988-05-19,Italy,Italy,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2465425.85,268653.52,physique,False,,False,False,False,clear,clear,2020-05-18
+CLI_0479,Guilbert,Charles,1958-01-16,Sweden,Sweden,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,17110734.38,1906023.07,physique,False,,False,False,False,clear,clear,2019-11-11
+CLI_0480,Guillon,Adrienne,1957-06-16,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,692338.28,35825.35,physique,False,,False,False,False,clear,clear,2023-05-20
+CLI_0481,Cohen,Antoinette,1958-03-02,Belgium,Luxembourg,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1812935.09,209687.1,physique,False,,False,False,False,clear,clear,2019-03-20
+CLI_0482,Moreau,Adrienne,1958-12-09,Spain,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,301879.69,33518.08,physique,False,,False,False,False,clear,clear,2017-11-06
+CLI_0483,Collin,Noël,1988-05-26,Italy,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,63478.19,physique,False,,False,False,False,clear,clear,2024-07-16
+CLI_0484,Lemaître,Danielle,1946-08-30,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,479925.16,42222.38,physique,False,,False,False,False,clear,clear,2022-01-26
+CLI_0485,Albert,Louise,1962-05-21,Italy,Italy,0,FAIBLE,Notaire,Juridique,HNWI,1167709.25,69017.67,physique,False,,False,False,False,clear,clear,2024-04-19
+CLI_0486,Pruvost,Théophile,1961-11-04,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1000000.0,93142.07,physique,False,,False,False,False,clear,clear,2024-09-25
+CLI_0487,Hoarau,Pénélope,1950-06-12,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1260979.02,133871.25,physique,False,,False,False,False,clear,clear,2021-09-29
+CLI_0488,Nguyen,Dominique,1971-01-24,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,75441.45,physique,False,,False,False,False,clear,clear,2019-10-23
+CLI_0489,Vincent,Yves,1955-04-01,Finland,Finland,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,868789.94,53826.84,physique,False,,False,False,False,clear,clear,2021-01-03
+CLI_0490,Martel,Arthur,1964-07-10,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,3675309.22,286884.18,physique,False,,False,False,False,clear,clear,2021-01-17
+CLI_0491,Marin,Martine,1957-10-03,Norway,Norway,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1971724.6,145817.04,physique,False,,False,False,False,clear,clear,2024-01-11
+CLI_0492,Turpin,François,1953-03-01,Portugal,Portugal,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,799688.58,85999.8,physique,False,,False,False,False,clear,clear,2024-09-14
+CLI_0493,Carre,Robert,1975-01-11,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,2093102.17,136538.97,physique,False,,False,False,False,clear,clear,2024-06-13
+CLI_0494,Michel,Gilbert,1953-03-28,Italy,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1085011.41,69111.61,physique,False,,False,False,False,clear,clear,2023-01-14
+CLI_0495,Voisin,Claude,1987-01-23,Sweden,Sweden,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,5758495.81,522818.95,moral,False,,False,False,False,clear,clear,2024-04-07
+CLI_0496,Martel,Alain,1977-11-18,Norway,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2891358.53,217277.28,physique,False,,False,False,False,clear,clear,2021-10-16
+CLI_0497,Ferreira,Geneviève,1951-05-22,Portugal,Portugal,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1000000.0,62138.71,physique,False,,False,False,False,clear,clear,2020-06-18
+CLI_0498,Boulay,Virginie,1950-09-04,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1735425.05,88679.43,physique,False,,False,False,False,clear,clear,2021-03-19
+CLI_0499,Barbier,Aimée,1993-03-26,Denmark,Denmark,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1074179.02,85718.72,physique,False,,False,False,False,clear,clear,2022-03-06
+CLI_0500,Bazin,Manon,1978-08-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,85121.02,physique,False,,False,False,False,clear,clear,2018-03-10
+CLI_0501,Le Goff,Monique,1982-08-20,Norway,Norway,0,FAIBLE,Notaire,Juridique,mass_affluent,640798.94,64793.09,physique,False,,False,False,False,clear,clear,2023-10-06
+CLI_0502,Didier,Lucie,1977-12-17,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,7546478.95,884664.47,physique,False,,False,False,False,clear,clear,2016-08-16
+CLI_0503,Tanguy,Jacques,1969-04-06,Norway,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,90177.57,physique,False,,False,False,False,clear,hit,2019-05-05
+CLI_0504,Gaudin,Arthur,1956-11-09,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2940465.52,276553.73,physique,False,,False,False,False,clear,clear,2023-07-09
+CLI_0505,Vasseur,Thibaut,1963-10-01,Belgium,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1257391.89,87325.13,physique,False,,False,False,False,clear,clear,2020-10-26
+CLI_0506,Leroy,Olivie,1947-06-05,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1409875.88,87804.19,physique,False,,False,False,False,clear,clear,2023-05-18
+CLI_0507,Renault,Brigitte,1986-06-29,Portugal,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1309720.42,134499.5,physique,False,,False,False,False,clear,clear,2022-01-17
+CLI_0508,Nguyen,Catherine,1974-07-23,Portugal,Portugal,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1082957.69,62941.07,physique,False,,False,False,False,clear,clear,2022-09-12
+CLI_0509,Rousseau,Hortense,1984-07-22,Portugal,Portugal,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2051260.7,178728.29,physique,False,,False,False,False,clear,clear,2023-03-18
+CLI_0510,Meyer,Élise,1955-04-27,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1108296.73,129596.3,physique,False,,False,False,False,clear,clear,2018-11-09
+CLI_0511,Hardy,Nath,1945-11-02,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2396020.46,242961.13,physique,False,,False,False,False,clear,clear,2021-09-19
+CLI_0512,Petit,Anne,1992-03-22,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1914244.0,166096.08,physique,False,,False,False,False,clear,clear,2017-10-05
+CLI_0513,Lopez,Margot,1984-02-04,Italy,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,402085.8,38063.77,physique,False,,False,False,False,clear,clear,2016-07-25
+CLI_0514,Benard,Camille,1980-05-01,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1050425.04,71148.97,moral,False,,False,False,False,clear,clear,2024-06-15
+CLI_0515,Blot,Gabriel,1975-09-10,Luxembourg,Luxembourg,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1324121.88,138570.93,physique,False,,False,False,False,clear,clear,2024-03-19
+CLI_0516,Clerc,Théodore,1954-12-20,Monaco,Monaco,19,INTERDIT,Entrepreneur tech,Technologie,mass_affluent,598484.85,37399.89,physique,False,,False,False,False,clear,clear,2021-05-24
+CLI_0517,Pires,Benoît,1986-09-19,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2815476.37,284160.85,physique,False,,False,False,False,clear,clear,2020-12-23
+CLI_0518,Camus,Étienne,1958-01-22,Sweden,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000200.79,90242.93,physique,False,,False,False,False,clear,clear,2020-11-07
+CLI_0519,Jacquet,Arnaude,1996-06-23,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,2125531.86,208829.87,physique,False,,False,False,False,clear,clear,2024-08-14
+CLI_0520,Seguin,Susan,1979-01-07,Spain,Spain,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,597527.06,52238.11,moral,False,,False,False,False,clear,clear,2022-03-29
+CLI_0521,Devaux,Simone,1991-05-26,Italy,Italy,0,FAIBLE,Directeur financier,Finance,mass_affluent,226893.92,17540.56,physique,False,,False,False,False,clear,clear,2022-10-01
+CLI_0522,Pottier,Colette,1963-03-02,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,549818.82,42453.56,physique,False,,False,False,False,clear,clear,2017-05-19
+CLI_0523,Legros,Catherine,1969-07-26,Germany,Germany,0,FAIBLE,Banquier privé,Finance,mass_affluent,339405.38,17987.47,physique,False,,False,False,False,clear,clear,2022-03-15
+CLI_0524,Pasquier,Zacharie,1968-07-14,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,555842.06,33301.24,physique,False,,False,False,False,clear,clear,2018-12-08
+CLI_0525,Barbe,Anne,1949-01-19,Finland,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,326014.24,18521.02,physique,False,,False,False,False,clear,clear,2022-08-29
+CLI_0526,Brunet,Roland,1991-12-09,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,106806.47,physique,False,,False,False,False,clear,clear,2019-04-01
+CLI_0527,Hardy,Arnaude,1980-08-12,Norway,Norway,0,FAIBLE,Notaire,Juridique,HNWI,1000000.0,73485.26,physique,False,,False,False,False,clear,clear,2021-11-07
+CLI_0528,Fabre,Aurélie,1967-04-14,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,2050633.78,193279.66,physique,False,,False,False,False,clear,clear,2019-06-17
+CLI_0529,Mace,Valentine,1993-08-06,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2378084.17,253310.73,physique,False,,False,False,False,clear,clear,2019-12-14
+CLI_0530,Guillou,Virginie,1995-06-09,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1052815.29,105496.21,physique,False,,False,False,False,clear,clear,2020-07-06
+CLI_0531,Delaunay,François,1960-09-11,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,571167.04,63051.8,moral,False,,False,False,False,clear,clear,2025-04-19
+CLI_0532,Hervé,Anouk,1993-07-06,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,227610.7,13925.94,physique,False,,False,False,False,clear,clear,2018-03-24
+CLI_0533,Evrard,Adélaïde,1974-11-06,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1893133.86,217218.74,physique,False,,False,False,False,clear,clear,2022-03-21
+CLI_0534,Léger,Élise,1981-07-30,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1000000.0,112886.09,physique,False,,False,False,False,clear,clear,2019-08-17
+CLI_0535,Pires,Lucy,1990-11-06,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1256341.8,141130.18,physique,False,,False,False,False,clear,clear,2023-07-17
+CLI_0536,Rolland,Auguste,1972-07-16,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2049648.9,107087.23,moral,False,,False,False,False,clear,clear,2020-03-20
+CLI_0537,Chauveau,Marcel,1993-03-12,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,313587.8,29684.2,physique,False,,False,False,False,clear,hit,2021-04-01
+CLI_0538,Pinto,Théodore,1991-10-03,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1514825.97,124811.67,moral,False,,False,False,False,clear,clear,2020-06-07
+CLI_0539,Launay,Alphonse,1955-10-20,Denmark,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,4010413.72,317801.34,moral,False,,False,False,False,pending,clear,2020-11-26
+CLI_0540,Laporte,Émile,1971-02-13,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1324010.16,88491.28,physique,False,,False,False,False,clear,clear,2017-06-29
+CLI_0541,Jean,Frédéric,1980-06-24,Luxembourg,Luxembourg,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,3558979.76,218258.7,physique,False,,False,False,False,clear,clear,2017-08-09
+CLI_0542,Delannoy,Christiane,1952-01-06,Norway,Norway,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1000000.0,99273.14,physique,False,,False,False,False,clear,clear,2021-03-09
+CLI_0543,Weiss,Valérie,1987-02-04,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2872987.32,303426.28,physique,False,,False,False,False,clear,clear,2021-02-26
+CLI_0544,Étienne,Vincent,1994-06-10,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,HNWI,5438957.88,449120.32,physique,False,,False,False,False,clear,clear,2017-03-14
+CLI_0545,Pinto,Philippine,1978-03-26,Portugal,Portugal,0,FAIBLE,Notaire,Juridique,mass_affluent,164611.3,13744.14,physique,False,,False,False,False,clear,clear,2022-12-04
+CLI_0546,Da Silva,Joséphine,1995-10-17,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1135034.18,61078.69,physique,False,,False,False,False,clear,clear,2023-08-15
+CLI_0547,Masse,Richard,1985-07-07,Finland,Finland,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2969637.62,314761.6,physique,False,,False,False,False,clear,clear,2021-04-22
+CLI_0548,Paris,Jacqueline,1995-02-05,Finland,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,407901.84,22592.18,physique,False,,False,False,False,clear,clear,2023-05-06
+CLI_0549,Antoine,Laurence,1982-12-05,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,513219.21,30404.09,physique,False,,False,False,False,clear,clear,2020-03-26
+CLI_0550,Barbe,Valérie,1946-05-11,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,347460.38,31448.4,moral,False,,False,False,False,clear,clear,2020-05-21
+CLI_0551,Marin,Denis,1975-09-13,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2106656.92,143675.1,physique,False,,False,False,False,hit,clear,2025-01-23
+CLI_0552,Leroy,Amélie,1983-02-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,415704.15,26089.44,physique,False,,False,False,False,clear,clear,2022-02-23
+CLI_0553,Laine,Auguste,1987-09-30,Italy,Italy,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,4490378.0,282511.06,physique,False,,False,False,False,clear,clear,2019-11-16
+CLI_0554,Cousin,Élisabeth,1963-02-08,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,489807.79,41613.67,physique,False,,False,False,False,clear,clear,2020-02-16
+CLI_0555,Benard,Olivier,1945-08-03,Germany,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2511327.02,296016.12,physique,False,,False,False,False,pending,clear,2023-03-13
+CLI_0556,Maillard,Capucine,1946-06-11,Germany,Italy,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1486130.21,88810.59,physique,False,,False,False,False,clear,clear,2020-01-21
+CLI_0557,Marin,Benjamin,1975-05-15,Finland,Finland,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,364017.6,38108.94,physique,False,,False,False,False,clear,clear,2021-09-28
+CLI_0558,Guillot,Margot,1989-09-20,Finland,Finland,0,FAIBLE,Directeur financier,Finance,HNWI,1464770.7,135279.55,physique,False,,False,False,False,clear,clear,2018-12-03
+CLI_0559,Joly,Luce,1960-05-24,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,2613279.49,212173.01,physique,False,,False,False,False,clear,clear,2018-10-06
+CLI_0560,Besson,Jacques,1986-09-06,Portugal,Portugal,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,373848.61,29531.63,physique,False,,False,False,False,clear,clear,2022-08-14
+CLI_0561,Dos Santos,Geneviève,1971-06-27,France,France,0,FAIBLE,Haut fonctionnaire,Politique,HNWI,2428641.0,136468.69,physique,True,PPE1,False,False,False,clear,clear,2023-12-02
+CLI_0562,Lemoine,Marguerite,1946-04-18,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,999999.0,84340.91,physique,False,,False,False,False,clear,clear,2019-02-09
+CLI_0563,Leconte,Matthieu,1979-06-17,Finland,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3648356.29,395470.93,physique,False,,False,False,False,clear,clear,2019-12-26
+CLI_0564,Julien,Alfred,1970-07-07,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,388322.16,45800.18,physique,False,,False,False,False,clear,clear,2016-09-08
+CLI_0565,Maillot,Zoé,1969-12-14,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,4596702.45,414937.24,physique,False,,False,False,False,clear,clear,2023-05-17
+CLI_0566,Lopez,Victoire,1962-08-19,France,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,375784.02,43914.48,physique,False,,False,False,False,clear,clear,2021-07-31
+CLI_0567,Gilbert,Hugues,1990-08-19,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,111071.02,physique,False,,False,False,False,clear,clear,2019-01-19
+CLI_0568,Lejeune,Jacques,1978-10-23,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,69699.24,physique,False,,False,False,False,clear,clear,2022-10-26
+CLI_0569,Bègue,Nicole,1977-05-29,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,108199.13,physique,False,,False,False,False,clear,clear,2024-05-02
+CLI_0570,Rossi,Michelle,1990-11-24,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,384382.95,27602.59,physique,False,,False,False,False,clear,clear,2024-02-03
+CLI_0571,Gallet,Camille,1954-03-15,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2008488.22,220887.64,physique,False,,False,False,False,clear,clear,2024-12-10
+CLI_0572,Lambert,Renée,1961-02-14,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,6410873.68,339623.64,physique,False,,False,False,False,clear,clear,2022-01-25
+CLI_0573,Carlier,Georges,1947-01-18,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,504221.51,57686.4,physique,False,,False,False,False,clear,clear,2022-10-27
+CLI_0574,Giraud,Léon,1968-02-19,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1700834.6,186853.12,moral,False,,False,False,False,clear,clear,2017-01-31
+CLI_0575,Cohen,Auguste,1984-09-24,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,3543352.63,364190.22,physique,False,,False,False,False,clear,clear,2024-10-31
+CLI_0576,Fournier,Zacharie,1963-02-05,Spain,Luxembourg,0,FAIBLE,Rentier,Patrimoine,HNWI,1000000.0,62659.4,physique,False,,False,False,False,clear,clear,2022-02-11
+CLI_0577,Lombard,Jules,1971-04-01,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,486137.03,36600.06,physique,False,,False,False,False,clear,clear,2017-06-05
+CLI_0578,Dos Santos,Amélie,1968-11-01,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3401086.97,267018.51,physique,False,,False,False,False,clear,clear,2016-07-31
+CLI_0579,Le Roux,Charlotte,1954-04-14,Sweden,Sweden,0,FAIBLE,Banquier privé,Finance,HNWI,1000000.0,57362.03,physique,False,,False,False,False,clear,clear,2018-01-05
+CLI_0580,Meunier,Suzanne,1996-02-28,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,699066.82,82674.81,physique,False,,False,False,False,clear,pending,2017-07-09
+CLI_0581,Collet,Tristan,1966-09-18,France,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,506560.26,52145.92,physique,False,,False,False,False,clear,clear,2022-11-16
+CLI_0582,Fernandez,Amélie,1959-08-22,Belgium,Belgium,0,FAIBLE,Ancien ministre,Politique,HNWI,1482586.06,85341.46,physique,True,PPE1,False,False,False,clear,clear,2024-07-14
+CLI_0583,Guyon,Camille,1991-06-01,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,569841.05,55584.75,physique,False,,False,False,False,clear,clear,2018-03-09
+CLI_0584,Salmon,Étienne,1986-10-30,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,9717947.59,829287.21,physique,False,,False,False,False,clear,clear,2020-05-07
+CLI_0585,Garcia,Claire,1987-04-14,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2251948.45,171921.76,physique,False,,False,False,False,clear,clear,2022-09-01
+CLI_0586,Morin,Auguste,1954-01-13,Finland,Finland,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2359014.28,244112.64,physique,False,,False,False,False,clear,clear,2016-07-27
+CLI_0587,Olivier,Valentine,1956-01-25,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,368153.64,43427.75,physique,False,,False,False,False,clear,hit,2023-12-05
+CLI_0588,Barre,Nathalie,1970-10-30,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1093734.93,113271.11,physique,False,,False,False,False,clear,clear,2017-01-31
+CLI_0589,Martel,Manon,1985-10-08,Spain,Spain,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,616697.76,70135.33,physique,False,,False,False,False,clear,clear,2024-05-25
+CLI_0590,Rossi,Timothée,1960-12-13,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1088968.33,107499.79,physique,False,,False,False,False,pending,clear,2019-12-24
+CLI_0591,Lecomte,Lucie,1946-06-29,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,455261.15,48622.8,physique,False,,False,False,False,clear,clear,2024-04-26
+CLI_0592,Mace,Laetitia,1948-11-09,Germany,Germany,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1419250.95,97305.06,physique,False,,False,False,False,clear,clear,2020-01-06
+CLI_0593,Fischer,Henriette,1954-07-14,Belgium,Belgium,0,FAIBLE,Ancien ministre,Politique,HNWI,2772571.75,151684.31,physique,True,PPE1,False,False,False,clear,clear,2021-04-10
+CLI_0594,Coste,Louise,1990-02-25,Italy,Italy,0,FAIBLE,Directeur financier,Finance,HNWI,2504409.34,197853.34,physique,False,,False,False,False,clear,clear,2023-06-25
+CLI_0595,Chevalier,Xavier,1952-12-04,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,4099099.86,481021.97,physique,False,,False,False,False,clear,clear,2021-10-19
+CLI_0596,Valentin,Virginie,1954-01-23,Belgium,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1387464.48,88860.66,physique,False,,False,False,False,clear,clear,2016-11-25
+CLI_0597,Joly,Catherine,1970-10-13,Italy,Italy,0,FAIBLE,Rentier,Patrimoine,HNWI,1641445.06,129461.9,physique,False,,False,False,False,clear,clear,2025-01-08
+CLI_0598,Lopez,Françoise,1993-05-16,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,299088.42,26675.02,physique,False,,False,False,False,clear,clear,2021-08-19
+CLI_0599,Mendès,Marthe,1993-05-24,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1452787.55,76934.2,physique,False,,False,False,False,clear,clear,2022-10-04
+CLI_0600,Pineau,Dorothée,1951-04-10,Sweden,Sweden,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,514484.24,57622.42,moral,False,,False,False,False,clear,clear,2025-04-28
+CLI_0601,Étienne,Bernadette,1963-03-16,Denmark,France,0,FAIBLE,Notaire,Juridique,mass_affluent,598867.38,68994.85,physique,False,,False,False,False,clear,clear,2024-06-06
+CLI_0602,Fouquet,Lucy,1986-07-10,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,1039743.15,120074.75,physique,False,,False,False,False,clear,clear,2016-12-29
+CLI_0603,Gaillard,Laurence,1984-05-21,Monaco,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,626461.36,45201.88,physique,False,,False,False,False,clear,clear,2019-04-03
+CLI_0604,Hebert,Rémy,1947-12-25,Sweden,Sweden,0,FAIBLE,Héritier,Patrimoine,HNWI,5121441.5,580597.65,physique,False,,False,False,False,clear,clear,2020-08-12
+CLI_0605,Bègue,Élise,1974-08-21,Spain,France,0,FAIBLE,Héritier,Patrimoine,mass_affluent,521974.47,39356.8,physique,False,,False,False,False,clear,clear,2024-09-14
+CLI_0606,Courtois,Aimé,1955-12-10,Finland,Finland,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,7376110.82,852254.79,moral,False,,False,False,False,clear,clear,2020-11-26
+CLI_0607,Hubert,William,1987-03-05,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1153541.76,64144.56,physique,False,,False,False,False,clear,clear,2018-06-24
+CLI_0608,Le Goff,Roger,1970-08-06,Luxembourg,Luxembourg,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,85443.42,physique,False,,False,False,False,clear,clear,2021-06-01
+CLI_0609,Boulay,Jérôme,1976-11-05,Portugal,Portugal,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,217186.54,20605.99,physique,False,,False,False,False,clear,clear,2023-08-17
+CLI_0610,Martins,Adélaïde,1962-11-03,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,5650366.78,617512.93,physique,False,,False,False,False,clear,clear,2024-02-20
+CLI_0611,Evrard,Laurence,1970-05-13,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3134737.38,247690.49,physique,False,,False,False,False,clear,clear,2025-03-19
+CLI_0612,Le Gall,Benjamin,1950-08-10,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1907093.15,107232.72,physique,False,,False,False,False,clear,clear,2024-02-06
+CLI_0613,Regnier,Audrey,1979-07-29,Portugal,France,0,FAIBLE,Expert comptable,Finance,mass_affluent,494838.86,28806.81,moral,False,,False,False,False,clear,clear,2021-10-04
+CLI_0614,Bruneau,Maggie,1980-08-12,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,84591.77,physique,False,,False,False,False,clear,clear,2017-07-21
+CLI_0615,Denis,Rémy,1986-04-01,Spain,Spain,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,10984836.57,1299824.41,physique,False,,False,False,False,clear,clear,2025-05-08
+CLI_0616,Leconte,Anaïs,1965-11-07,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,HNWI,2170471.16,140766.42,physique,False,,False,False,False,clear,clear,2018-05-25
+CLI_0617,Leroux,Claude,1952-12-03,Sweden,France,0,FAIBLE,Notaire,Juridique,HNWI,2140556.41,247774.83,physique,False,,False,False,False,clear,clear,2022-05-27
+CLI_0618,Lefèvre,Raymond,1964-02-12,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3295395.13,370586.35,physique,False,,False,False,False,clear,clear,2022-01-17
+CLI_0619,Hubert,Alfred,1976-04-25,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,536275.71,31199.95,physique,False,,False,False,False,clear,clear,2021-05-03
+CLI_0620,Guichard,Stéphanie,1988-06-10,Denmark,Finland,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,483861.32,55581.24,physique,False,,False,False,False,clear,clear,2023-11-08
+CLI_0621,Fernandes,Constance,1958-09-11,Portugal,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1140147.14,61255.04,physique,False,,False,False,False,clear,clear,2018-02-05
+CLI_0622,Schmitt,Alain,1945-08-06,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2758031.75,328805.1,physique,False,,False,False,False,clear,clear,2017-08-06
+CLI_0623,Lemonnier,Emmanuelle,1967-02-23,Portugal,Portugal,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,939224.49,101041.79,physique,False,,False,False,False,clear,clear,2024-04-16
+CLI_0624,Bègue,Vincent,1959-10-14,Monaco,Monaco,19,INTERDIT,Dirigeant PME,Industrie,mass_affluent,757794.88,73796.79,physique,False,,False,False,False,clear,clear,2022-05-11
+CLI_0625,Laporte,Marc,1978-03-22,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,6047954.29,497240.56,physique,False,,False,False,False,clear,clear,2019-05-28
+CLI_0626,Chevalier,Julie,1954-05-24,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,360596.08,36495.27,physique,False,,False,False,False,clear,clear,2022-10-23
+CLI_0627,Rey,Pénélope,1994-06-14,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,92160.41,physique,False,,False,False,False,clear,clear,2018-11-10
+CLI_0628,Riou,Aurélie,1967-03-25,Italy,Italy,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,420704.19,43197.53,physique,False,,False,False,False,clear,clear,2022-11-24
+CLI_0629,Leroy,Marc,1976-08-07,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,2061629.89,156110.69,physique,False,,False,False,False,clear,clear,2017-06-17
+CLI_0630,Gros,Agnès,1951-06-23,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,4264920.35,340431.05,physique,False,,False,False,False,clear,clear,2019-03-04
+CLI_0631,Pascal,Madeleine,1979-12-13,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,82775.34,physique,False,,False,False,False,clear,clear,2019-01-13
+CLI_0632,Dubois,Marianne,1952-10-04,Norway,Norway,0,FAIBLE,Directeur financier,Finance,mass_affluent,815714.85,45155.75,physique,False,,False,False,False,clear,clear,2023-10-02
+CLI_0633,Breton,Camille,1968-12-03,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,415316.78,21238.81,physique,False,,False,False,False,clear,clear,2017-04-23
+CLI_0634,Legendre,Marie,1976-02-22,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1470603.25,142528.21,physique,False,,False,False,False,clear,clear,2023-12-29
+CLI_0635,Renard,Léon,1977-08-29,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,87406.32,physique,False,,False,False,False,clear,clear,2020-09-18
+CLI_0636,Camus,Marc,1971-03-29,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,106919.27,physique,False,,False,False,False,clear,clear,2023-05-01
+CLI_0637,Collin,Philippine,1957-02-25,Belgium,Belgium,0,FAIBLE,Banquier privé,Finance,mass_affluent,614932.78,38848.67,physique,False,,False,False,False,clear,clear,2021-03-22
+CLI_0638,Bernard,Eugène,1968-01-22,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,2087176.13,165996.34,physique,False,,False,False,False,clear,clear,2018-10-12
+CLI_0639,Antoine,Marguerite,1968-08-21,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,108368.7,physique,False,,False,False,False,clear,clear,2025-01-09
+CLI_0640,Martel,Marianne,1957-08-25,Portugal,Portugal,0,FAIBLE,Parlementaire,Politique,HNWI,1000000.0,119931.85,physique,True,PPE1,False,False,False,clear,clear,2017-06-17
+CLI_0641,Ledoux,Thérèse,1988-05-24,Portugal,Portugal,0,FAIBLE,Héritier,Patrimoine,HNWI,1567434.42,124674.23,physique,False,,False,False,False,clear,clear,2021-05-15
+CLI_0642,Gautier,Lorraine,1976-10-13,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,6377680.73,390909.36,physique,False,,False,False,False,clear,clear,2025-03-09
+CLI_0643,Roger,Victoire,1991-01-05,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,1653303.65,97844.33,physique,False,,False,False,False,clear,clear,2021-09-07
+CLI_0644,Lacroix,Hugues,1955-04-08,Finland,Finland,0,FAIBLE,Directeur financier,Finance,HNWI,1000000.0,69772.01,physique,False,,False,False,False,clear,clear,2019-10-23
+CLI_0645,Meunier,Adrienne,1994-10-05,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,1669408.37,148540.85,moral,False,,False,False,False,clear,clear,2019-04-26
+CLI_0646,Maillard,Véronique,1967-07-22,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1638175.21,152726.1,physique,False,,False,False,False,clear,clear,2020-01-29
+CLI_0647,Humbert,Louis,1981-08-15,Portugal,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,111158.7,physique,False,,False,False,False,clear,clear,2024-09-04
+CLI_0648,Leroy,Claire,1970-05-13,Luxembourg,Luxembourg,0,FAIBLE,Banquier privé,Finance,HNWI,1908815.77,210136.03,moral,False,,False,False,False,clear,clear,2024-01-22
+CLI_0649,Millet,Richard,1985-10-09,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1686803.42,144074.54,physique,False,,False,False,False,clear,clear,2020-04-22
+CLI_0650,Regnier,Josette,1949-01-09,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,3227906.86,344224.52,physique,False,,False,False,False,clear,clear,2021-05-13
+CLI_0651,Labbé,Yves,1951-11-10,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,7233758.21,477230.85,physique,False,,False,False,False,clear,clear,2020-09-30
+CLI_0652,Gallet,Franck,1969-05-12,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,4362673.09,437287.31,physique,False,,False,False,False,clear,clear,2022-06-11
+CLI_0653,Weber,Emmanuelle,1984-12-27,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1642578.66,148191.82,physique,False,,False,False,False,pending,clear,2022-08-05
+CLI_0654,Collet,Arthur,1979-11-28,Sweden,Sweden,0,FAIBLE,Parlementaire,Politique,HNWI,1000000.0,71302.61,physique,True,PPE1,False,False,False,clear,clear,2024-08-09
+CLI_0655,Lagarde,Suzanne,1990-02-17,Italy,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,12011221.1,1125513.61,physique,False,,False,False,False,clear,clear,2024-06-24
+CLI_0656,Teixeira,Isabelle,1968-10-18,Finland,Finland,0,FAIBLE,Directeur financier,Finance,HNWI,2066677.71,208232.06,physique,False,,False,False,False,clear,pending,2017-03-06
+CLI_0657,Fabre,Alphonse,1961-07-30,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2002186.73,224890.33,physique,False,,False,False,False,clear,clear,2022-09-07
+CLI_0658,Munoz,Noémi,1967-03-20,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1949556.44,145852.43,physique,False,,False,False,False,clear,clear,2021-07-30
+CLI_0659,Baron,Nicolas,1974-11-03,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2277660.4,256473.04,physique,False,,False,False,False,clear,clear,2020-02-18
+CLI_0660,De Sousa,Madeleine,1987-11-03,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1792187.88,182132.64,physique,False,,False,False,False,clear,clear,2021-01-17
+CLI_0661,Bourdon,Henriette,1977-03-24,Italy,Italy,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1327007.01,148884.41,physique,False,,False,False,False,clear,clear,2019-04-22
+CLI_0662,Mary,Roland,1949-01-21,Belgium,Belgium,0,FAIBLE,Expert comptable,Finance,HNWI,1352139.54,161926.59,physique,False,,False,False,False,clear,clear,2016-11-19
+CLI_0663,Thomas,Aimé,1991-10-21,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1937817.14,168667.37,physique,False,,False,False,False,clear,clear,2019-09-19
+CLI_0664,Blanchet,Eugène,1987-10-06,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,355980.09,32046.59,physique,False,,False,False,False,clear,clear,2020-03-12
+CLI_0665,Gaudin,Julie,1961-01-10,Spain,Spain,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1203817.06,139134.1,physique,False,,False,False,False,clear,clear,2022-08-05
+CLI_0666,Da Silva,Jeanne,1950-07-18,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,461654.52,41365.85,physique,False,,False,False,False,clear,clear,2023-07-28
+CLI_0667,Dupont,Lorraine,1986-12-20,Portugal,Portugal,0,FAIBLE,Expert comptable,Finance,HNWI,1658652.27,100230.34,physique,False,,False,False,False,clear,clear,2020-11-14
+CLI_0668,Gilles,Victoire,1992-02-25,Spain,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,5681893.47,576791.14,physique,False,,False,False,False,clear,clear,2024-05-13
+CLI_0669,Duhamel,Aurélie,1977-01-01,Belgium,Belgium,0,FAIBLE,Banquier privé,Finance,HNWI,1000000.0,116861.78,physique,False,,False,False,False,clear,clear,2024-08-02
+CLI_0670,Hamel,Julien,1964-09-13,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,684608.72,35139.7,physique,False,,False,False,False,clear,clear,2019-01-16
+CLI_0671,Louis,Susan,1995-06-10,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,4743375.8,547240.49,physique,False,,False,False,False,clear,clear,2022-01-24
+CLI_0672,Delattre,Joseph,1975-01-02,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,67888.82,physique,False,,False,False,False,clear,clear,2019-04-21
+CLI_0673,Potier,Alexandrie,1985-05-29,France,France,0,FAIBLE,Expert comptable,Finance,mass_affluent,385742.36,23133.83,physique,False,,False,False,False,clear,clear,2023-07-07
+CLI_0674,Meunier,Alfred,1989-08-24,Sweden,Sweden,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1528796.52,117646.1,physique,False,,False,False,False,clear,clear,2019-03-27
+CLI_0675,Henry,Martin,1983-12-15,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,251952.37,22935.75,physique,False,,False,False,False,clear,clear,2024-07-29
+CLI_0676,Costa,Éléonore,1960-02-25,France,France,0,FAIBLE,Notaire,Juridique,HNWI,1150294.23,136852.36,physique,False,,False,False,False,clear,clear,2017-04-18
+CLI_0677,Gilles,Guy,1952-04-09,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1000000.0,61716.72,physique,False,,True,False,False,clear,clear,2021-08-19
+CLI_0678,Weiss,François,1951-03-28,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,6760377.64,414405.34,physique,False,,False,False,False,clear,clear,2021-03-21
+CLI_0679,Rodrigues,Hortense,1953-03-19,Portugal,Portugal,0,FAIBLE,Rentier,Patrimoine,HNWI,3816998.26,446662.09,physique,False,,False,False,False,clear,clear,2022-11-02
+CLI_0680,Martinez,Gilles,1989-10-12,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,735732.62,86175.98,moral,False,,False,False,False,clear,clear,2018-07-31
+CLI_0681,Maillot,Matthieu,1957-02-14,Norway,Luxembourg,0,FAIBLE,Expert comptable,Finance,mass_affluent,590466.88,58592.61,physique,False,,True,False,False,clear,clear,2024-06-14
+CLI_0682,Girard,Paul,1991-09-13,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,118042.73,physique,False,,False,False,False,clear,clear,2017-12-07
+CLI_0683,Leblanc,Danielle,1972-07-19,Finland,Finland,0,FAIBLE,Banquier privé,Finance,mass_affluent,358682.15,23496.0,physique,False,,False,False,False,clear,clear,2021-04-11
+CLI_0684,Faivre,Gérard,1963-11-14,Italy,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2792819.43,328744.89,physique,False,,False,False,False,clear,clear,2023-02-27
+CLI_0685,Schmitt,Maryse,1972-07-19,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,84580.79,physique,False,,False,False,False,clear,clear,2018-08-24
+CLI_0686,Rodriguez,Martine,1974-10-31,Finland,Belgium,0,FAIBLE,Notaire,Juridique,mass_affluent,588421.83,64657.87,physique,False,,False,False,False,clear,clear,2022-11-23
+CLI_0687,Labbé,Juliette,1965-03-06,Finland,Finland,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1675751.4,137034.28,physique,False,,False,False,False,clear,clear,2021-10-11
+CLI_0688,Blanc,Frédérique,1952-12-17,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1525183.72,129168.16,physique,False,,False,False,False,clear,clear,2022-02-06
+CLI_0689,Lévy,Pauline,1995-07-24,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,3261415.88,293616.7,physique,False,,False,False,False,clear,hit,2020-03-16
+CLI_0690,Étienne,Odette,1988-01-02,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,528450.98,27453.61,physique,False,,False,False,False,clear,clear,2024-03-16
+CLI_0691,Dos Santos,Auguste,1969-01-11,France,Luxembourg,0,FAIBLE,Rentier,Patrimoine,HNWI,1540047.29,133025.05,moral,False,,False,False,False,clear,clear,2020-01-25
+CLI_0692,Gay,Océane,1980-03-27,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,703435.82,78999.97,moral,False,,False,False,False,clear,clear,2019-07-19
+CLI_0693,Rocher,Jeanne,1974-01-29,Italy,Italy,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,70644.17,physique,False,,False,False,False,clear,clear,2023-06-18
+CLI_0694,Baudry,Jérôme,1960-05-04,Luxembourg,France,0,FAIBLE,Expert comptable,Finance,mass_affluent,566014.09,52835.23,physique,False,,False,False,False,clear,clear,2025-02-05
+CLI_0695,Deschamps,Margaud,1948-04-30,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,560867.8,61053.02,physique,False,,False,False,False,clear,clear,2018-08-12
+CLI_0696,Texier,Pauline,1956-02-21,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,390889.98,28072.42,physique,False,,False,False,False,clear,clear,2019-02-09
+CLI_0697,Carlier,Valentine,1946-03-21,France,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,504061.32,59438.39,physique,False,,False,False,False,clear,clear,2024-10-18
+CLI_0698,Perrier,Thibault,1964-03-15,France,France,0,FAIBLE,Banquier privé,Finance,mass_affluent,268217.79,17189.62,physique,False,,False,False,False,clear,clear,2021-07-15
+CLI_0699,Dupuis,Inès,1981-04-02,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3785993.57,300262.12,physique,False,,False,False,False,clear,clear,2020-11-15
+CLI_0700,Colin,Richard,1985-04-24,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,410872.88,34370.43,physique,False,,True,False,False,clear,clear,2020-09-22
+CLI_0701,Carlier,Denis,1954-06-14,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,358940.1,20841.23,physique,False,,False,False,False,clear,clear,2024-12-22
+CLI_0702,Lebon,Julien,1994-08-15,Italy,Italy,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,673069.38,49663.92,physique,False,,False,False,False,clear,clear,2018-03-13
+CLI_0703,Guyon,Capucine,1993-07-31,Finland,Finland,0,FAIBLE,Héritier,Patrimoine,HNWI,1211002.9,78372.01,physique,False,,False,False,False,clear,clear,2022-01-31
+CLI_0704,Hoareau,Noël,1984-03-14,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,60110.26,physique,False,,False,False,False,clear,clear,2018-10-29
+CLI_0705,Boutin,Luce,1979-10-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,91112.81,physique,False,,False,False,False,clear,clear,2016-07-31
+CLI_0706,Colas,Pénélope,1959-05-30,Denmark,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,563771.32,36445.92,physique,False,,False,False,False,clear,clear,2018-08-18
+CLI_0707,Germain,Amélie,1949-03-18,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,62529.9,physique,False,,False,False,False,clear,clear,2023-12-28
+CLI_0708,Germain,Anne,1984-07-28,Luxembourg,Luxembourg,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,6772331.19,442685.89,physique,False,,False,False,False,clear,clear,2021-02-24
+CLI_0709,Brun,Aurore,1996-05-30,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1000000.0,102613.59,physique,False,,False,False,False,clear,clear,2023-08-31
+CLI_0710,Millet,Patrick,1984-12-15,Sweden,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,6501343.84,469341.31,physique,False,,False,False,False,clear,clear,2018-10-13
+CLI_0711,Dubois,Anouk,1955-10-11,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2298373.43,159391.62,physique,False,,False,False,False,clear,clear,2018-12-09
+CLI_0712,Bernier,Bertrand,1965-05-02,Spain,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,425625.34,26961.22,physique,False,,False,False,False,clear,clear,2023-12-29
+CLI_0713,Carre,Nicolas,1970-08-18,Portugal,Portugal,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1353976.86,105971.41,physique,False,,False,False,False,clear,clear,2024-03-23
+CLI_0714,Roy,Michelle,1990-05-27,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,518997.55,33574.6,physique,False,,False,False,False,clear,clear,2021-10-19
+CLI_0715,Maillet,Aurore,1957-11-08,France,France,0,FAIBLE,Banquier privé,Finance,mass_affluent,435803.23,43081.72,physique,False,,False,False,False,clear,clear,2023-08-01
+CLI_0716,Dupuis,Antoinette,1948-08-02,Spain,France,0,FAIBLE,Notaire,Juridique,HNWI,4292205.74,316711.38,physique,False,,False,False,False,clear,clear,2018-04-09
+CLI_0717,Richard,Paulette,1951-10-09,Italy,Italy,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,463096.65,54036.26,physique,False,,False,False,False,clear,clear,2019-08-15
+CLI_0718,Samson,Augustin,1960-03-24,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,mass_affluent,469827.42,39105.82,physique,False,,False,False,False,hit,clear,2024-09-25
+CLI_0719,Leblanc,Marianne,1953-11-23,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,382527.23,24125.4,physique,False,,False,False,False,hit,clear,2024-01-21
+CLI_0720,Parent,Marguerite,1956-04-24,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,432449.9,49163.88,physique,False,,False,False,False,pending,clear,2022-02-08
+CLI_0721,Coulon,Emmanuelle,1950-04-18,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2459481.81,263786.13,physique,False,,False,False,False,clear,clear,2020-06-16
+CLI_0722,Renaud,Colette,1975-02-05,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,107720.78,physique,False,,False,False,False,clear,clear,2018-08-16
+CLI_0723,Marty,Émile,1991-11-04,Spain,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,258002.83,21141.13,physique,False,,False,False,False,clear,clear,2019-07-21
+CLI_0724,Lefort,Frédérique,1978-10-01,Belgium,Belgium,0,FAIBLE,Banquier privé,Finance,mass_affluent,595588.72,45816.59,physique,False,,False,False,False,clear,clear,2017-03-03
+CLI_0725,Bonnin,Paul,1959-09-24,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,473707.9,54069.37,physique,False,,False,False,False,clear,clear,2022-01-24
+CLI_0726,Mahe,Virginie,1975-08-23,France,France,0,FAIBLE,Directeur banque centrale,Finance,HNWI,1743162.7,148705.09,moral,True,PPE1,False,False,False,clear,clear,2022-05-04
+CLI_0727,Loiseau,Pierre,1948-07-25,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2008510.08,205303.92,physique,False,,False,False,False,clear,clear,2021-11-28
+CLI_0728,Rousseau,Thomas,1951-05-01,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,2528930.88,242756.08,physique,False,,False,False,False,clear,clear,2019-11-13
+CLI_0729,Bourgeois,Antoine,1971-10-25,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1358875.7,105121.9,physique,False,,False,False,False,clear,clear,2024-06-20
+CLI_0730,Rocher,Laetitia,1990-05-19,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,324058.1,17286.21,physique,False,,False,False,False,clear,clear,2024-10-12
+CLI_0731,Diaz,Auguste,1992-03-17,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2274092.61,235818.85,physique,False,,False,False,False,clear,clear,2025-04-18
+CLI_0732,Prévost,Simone,1986-08-14,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1000000.0,117112.17,physique,False,,False,False,False,clear,clear,2022-02-01
+CLI_0733,Bruneau,Maurice,1992-02-06,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2638647.22,170188.4,physique,False,,False,False,False,clear,clear,2024-03-11
+CLI_0734,Potier,Antoine,1992-06-03,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,65406.73,physique,False,,False,False,False,clear,clear,2022-06-21
+CLI_0735,Bernard,Agathe,1981-06-18,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,4075112.64,429468.72,physique,False,,False,False,False,clear,clear,2019-06-07
+CLI_0736,Neveu,Étienne,1967-10-07,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2760212.53,171887.19,physique,False,,False,False,False,clear,hit,2023-12-07
+CLI_0737,Imbert,Alain,1960-04-05,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2371944.91,157188.28,physique,False,,False,False,False,pending,clear,2023-11-10
+CLI_0738,Fontaine,Philippine,1985-08-15,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,3944700.89,235218.11,physique,False,,False,False,False,clear,clear,2017-12-04
+CLI_0739,Gérard,Cécile,1950-11-03,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,6361864.87,459502.91,physique,False,,False,False,False,clear,clear,2023-02-06
+CLI_0740,Guyon,Margot,1960-07-28,France,France,0,FAIBLE,Banquier privé,Finance,mass_affluent,663807.86,58250.35,physique,False,,False,False,False,clear,clear,2025-06-18
+CLI_0741,Lefèvre,Paul,1975-01-07,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,54523.18,physique,False,,False,False,False,clear,clear,2018-12-26
+CLI_0742,Laurent,Laetitia,1994-05-27,Spain,Spain,0,FAIBLE,Héritier,Patrimoine,mass_affluent,265181.35,14710.01,physique,False,,False,False,False,clear,clear,2018-02-22
+CLI_0743,Berthelot,Aurore,1954-03-26,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,344576.9,38030.88,physique,False,,False,False,False,clear,clear,2019-10-18
+CLI_0744,Da Silva,Philippine,1959-11-20,Portugal,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2019304.56,213135.78,physique,False,,False,False,False,clear,clear,2021-02-06
+CLI_0745,Dupré,Véronique,1966-08-03,Italy,Italy,0,FAIBLE,Héritier,Patrimoine,mass_affluent,544195.38,38860.62,physique,False,,False,False,False,clear,clear,2022-04-05
+CLI_0746,Lopez,Arthur,1980-08-29,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1192997.17,90904.05,physique,False,,False,False,False,clear,clear,2024-12-24
+CLI_0747,Fouquet,Auguste,1950-04-21,France,Portugal,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2259686.7,132673.95,physique,False,,False,False,False,clear,clear,2019-03-30
+CLI_0748,Paris,Clémence,1950-05-31,Luxembourg,Luxembourg,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1168500.6,115391.63,physique,False,,False,False,False,clear,clear,2018-04-12
+CLI_0749,Richard,Margaux,1952-06-30,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1292304.4,77993.03,physique,False,,False,False,False,clear,clear,2025-03-14
+CLI_0750,Delmas,Agathe,1954-03-25,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,252038.1,28778.16,physique,False,,False,False,False,clear,clear,2020-03-27
+CLI_0751,Boulanger,Zoé,1977-07-30,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1038966.19,90726.78,physique,False,,False,False,False,clear,clear,2019-03-31
+CLI_0752,Renard,Paulette,1996-04-04,Sweden,Portugal,0,FAIBLE,Héritier,Patrimoine,mass_affluent,257641.96,17733.88,physique,False,,False,False,False,clear,clear,2018-08-10
+CLI_0753,Gonzalez,Michel,1978-03-27,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,299434.42,28690.75,physique,False,,False,False,False,clear,clear,2019-08-09
+CLI_0754,Pineau,Alexandre,1953-06-16,Portugal,Portugal,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,4145563.39,224394.14,physique,False,,False,False,False,clear,clear,2017-12-22
+CLI_0755,Lebon,Christiane,1977-06-08,Sweden,Sweden,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1020109.75,57125.63,physique,False,,False,False,False,clear,clear,2022-01-07
+CLI_0756,Carpentier,Camille,1991-06-03,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,999999.0,105244.4,physique,False,,False,False,False,clear,clear,2017-08-26
+CLI_0757,Marion,Suzanne,1952-02-14,France,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,538922.56,39642.34,physique,False,,False,False,False,clear,clear,2016-10-07
+CLI_0758,Chevallier,Richard,1947-02-17,Sweden,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2256634.92,113319.01,moral,False,,False,False,False,clear,clear,2018-07-09
+CLI_0759,Barbier,Sylvie,1968-12-21,Luxembourg,Luxembourg,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1087236.33,101422.43,moral,False,,False,False,False,clear,clear,2020-10-08
+CLI_0760,Grenier,Noël,1964-02-11,France,France,0,FAIBLE,Haut fonctionnaire,Politique,HNWI,3237192.23,359782.89,physique,True,PPE1,False,False,False,clear,clear,2021-03-30
+CLI_0761,Pereira,Théophile,1952-02-14,Germany,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1325172.93,145765.05,physique,False,,False,False,False,clear,clear,2024-11-27
+CLI_0762,Laroche,Alexandre,1961-03-11,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2159542.32,183247.43,physique,False,,False,False,False,clear,pending,2020-05-12
+CLI_0763,Guillaume,Thibaut,1980-08-26,Denmark,Denmark,0,FAIBLE,Médecin chirurgien,Santé,HNWI,11900121.6,771304.69,physique,False,,False,False,False,clear,clear,2021-12-29
+CLI_0764,Leleu,David,1996-03-26,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1853818.4,126122.68,physique,False,,False,False,False,clear,clear,2018-06-07
+CLI_0765,Techer,Alain,1948-09-13,Italy,France,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,700611.87,72613.95,physique,False,,False,False,False,clear,clear,2021-02-05
+CLI_0766,Lenoir,Gabriel,1962-03-23,Luxembourg,Portugal,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1211992.8,79565.58,physique,False,,False,False,False,clear,clear,2018-06-23
+CLI_0767,Fontaine,Chantal,1949-06-20,Sweden,Portugal,0,FAIBLE,Héritier,Patrimoine,mass_affluent,436264.77,39431.43,physique,False,,False,False,False,clear,clear,2020-03-09
+CLI_0768,Martin,Benjamin,1992-12-10,Spain,Finland,0,FAIBLE,Parlementaire,Politique,HNWI,6848638.59,402984.27,physique,True,PPE1,False,False,False,clear,clear,2017-12-03
+CLI_0769,Allard,Gabriel,1953-11-24,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1278404.1,104707.58,physique,False,,False,False,False,clear,clear,2017-07-11
+CLI_0770,Coste,Noël,1964-02-22,Italy,Italy,0,FAIBLE,Directeur financier,Finance,HNWI,7051239.61,770960.32,moral,False,,False,False,False,clear,clear,2019-06-16
+CLI_0771,Joseph,Henri,1972-03-16,Portugal,France,0,FAIBLE,Diplomate,Politique,mass_affluent,587188.27,38016.28,physique,True,PPE1,False,False,False,clear,clear,2023-11-12
+CLI_0772,Traore,Gérard,1956-12-22,Spain,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1337447.17,81776.24,physique,False,,False,False,False,clear,clear,2018-02-13
+CLI_0773,Hoareau,Émilie,1988-11-13,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,569755.78,36268.63,physique,False,,False,False,False,clear,clear,2023-11-04
+CLI_0774,Colin,Christophe,1973-02-23,Portugal,Portugal,0,FAIBLE,Notaire,Juridique,HNWI,3916810.04,354083.62,physique,False,,False,False,False,clear,clear,2017-01-03
+CLI_0775,Rossi,Antoinette,1960-10-03,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,3064107.74,321685.19,physique,False,,False,False,False,clear,hit,2020-05-31
+CLI_0776,Bigot,Roland,1994-04-15,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,86080.46,physique,False,,False,False,False,clear,clear,2018-10-05
+CLI_0777,Teixeira,Michèle,1990-08-03,Denmark,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1191834.15,114053.51,physique,False,,False,False,False,clear,clear,2024-02-03
+CLI_0778,Lefèvre,Richard,1949-06-01,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1667334.76,84720.9,physique,False,,False,False,False,clear,clear,2017-06-13
+CLI_0779,Guillon,Thibault,1976-08-06,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1882095.99,198756.98,physique,False,,False,False,False,clear,clear,2020-06-01
+CLI_0780,Perrot,Michèle,1983-12-31,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,567087.47,60622.08,physique,False,,False,False,False,clear,clear,2021-04-08
+CLI_0781,Roy,Pauline,1991-09-14,Finland,Finland,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2245392.06,230622.36,physique,False,,False,False,False,clear,clear,2022-11-04
+CLI_0782,Courtois,Hugues,1958-07-10,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,95684.84,physique,False,,False,False,False,clear,clear,2018-02-12
+CLI_0783,Salmon,Laurent,1994-10-20,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2587333.83,183809.37,physique,False,,False,False,False,clear,clear,2022-07-28
+CLI_0784,Masson,Édouard,1977-08-24,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3040127.53,260664.56,physique,False,,False,False,False,clear,clear,2024-11-03
+CLI_0785,Fernandez,Monique,1981-07-24,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,553444.18,41582.79,physique,False,,False,False,False,clear,clear,2019-10-04
+CLI_0786,Jean,Inès,1947-03-09,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,4225070.51,489322.12,physique,False,,False,False,False,clear,clear,2022-01-03
+CLI_0787,Étienne,Clémence,1976-05-09,Spain,France,0,FAIBLE,Directeur financier,Finance,HNWI,3554573.02,328251.06,physique,False,,False,False,False,clear,pending,2017-03-05
+CLI_0788,Leconte,Jules,1956-02-23,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,531613.52,41718.21,physique,False,,False,False,False,clear,clear,2016-07-29
+CLI_0789,Vallée,Agnès,1992-07-07,Italy,Italy,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,430169.12,24670.28,physique,False,,False,False,False,clear,clear,2021-07-25
+CLI_0790,Gomez,Joséphine,1978-07-15,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,1000000.0,92522.69,physique,False,,False,False,False,clear,clear,2016-10-05
+CLI_0791,Humbert,Denise,1946-09-03,Denmark,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2678406.95,209412.82,physique,False,,False,False,False,clear,clear,2020-01-07
+CLI_0792,Nguyen,Augustin,1950-11-03,Portugal,Portugal,0,FAIBLE,Directeur financier,Finance,HNWI,2293022.52,174064.6,physique,False,,False,False,False,clear,clear,2019-11-02
+CLI_0793,Pelletier,Jacqueline,1956-06-27,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2397903.05,240492.12,physique,False,,False,False,False,clear,clear,2019-04-18
+CLI_0794,Gimenez,Adèle,1981-12-12,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1000000.0,116140.69,physique,False,,False,False,False,clear,clear,2016-11-27
+CLI_0795,Auger,Franck,1981-07-30,Norway,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,59549.99,physique,False,,False,False,False,clear,clear,2024-11-11
+CLI_0796,Goncalves,Andrée,1952-05-22,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,674185.88,66866.71,physique,False,,False,False,False,clear,clear,2016-12-10
+CLI_0797,Maillet,Caroline,1977-01-17,Luxembourg,Luxembourg,0,FAIBLE,Banquier privé,Finance,HNWI,1928612.5,119182.98,physique,False,,False,False,False,clear,clear,2022-07-16
+CLI_0798,Guichard,Théodore,1956-02-12,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,3194849.33,243223.43,physique,False,,False,False,False,clear,clear,2017-07-21
+CLI_0799,Boyer,Anaïs,1994-01-09,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,447453.25,42142.2,physique,False,,False,False,False,clear,clear,2019-11-20
+CLI_0800,Poirier,Vincent,1980-11-28,Luxembourg,Luxembourg,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2024491.87,102059.45,physique,False,,False,False,False,clear,clear,2018-02-10
+CLI_0801,Perez,Jean,1995-05-08,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,643909.54,55377.7,physique,False,,False,False,False,clear,clear,2020-07-22
+CLI_0802,Martin,Christiane,1986-05-09,Luxembourg,France,0,FAIBLE,Directeur financier,Finance,HNWI,1381621.95,120960.89,physique,False,,False,False,False,pending,clear,2017-09-04
+CLI_0803,Didier,Anastasie,1971-10-11,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,459754.67,29088.54,physique,False,,False,False,False,clear,clear,2022-04-26
+CLI_0804,Laurent,Émile,1983-08-17,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1434615.31,120844.46,physique,False,,False,False,False,clear,clear,2019-02-20
+CLI_0805,Weiss,Astrid,1995-05-27,Portugal,Portugal,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1462784.9,171200.69,physique,False,,False,False,False,clear,clear,2021-11-26
+CLI_0806,Pierre,Luc,1975-07-04,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1596907.51,128396.15,physique,False,,False,False,False,clear,clear,2022-04-06
+CLI_0807,Meunier,Louise,1996-03-08,Finland,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,483522.68,32548.24,physique,False,,False,False,False,clear,clear,2022-12-03
+CLI_0808,Legrand,Patrick,1989-12-04,Italy,Italy,0,FAIBLE,Directeur financier,Finance,mass_affluent,365309.62,22068.66,moral,False,,False,False,False,clear,clear,2018-03-15
+CLI_0809,Menard,Jacqueline,1947-03-17,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,731097.75,52237.82,physique,False,,False,False,False,clear,clear,2022-10-15
+CLI_0810,Jacquet,Simone,1975-05-26,Finland,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1059995.15,105799.17,physique,False,,False,False,False,clear,clear,2020-03-11
+CLI_0811,Launay,Isabelle,1948-09-26,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,410549.32,25839.48,physique,False,,False,False,False,clear,clear,2017-07-29
+CLI_0812,Maillard,Bertrand,1964-08-12,Monaco,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1457434.5,148665.96,physique,False,,False,False,False,clear,clear,2019-05-11
+CLI_0813,Gimenez,Bertrand,1975-08-06,France,France,0,FAIBLE,Notaire,Juridique,mass_affluent,789212.71,71865.16,physique,False,,False,False,False,clear,clear,2024-05-22
+CLI_0814,Roussel,Jacques,1985-04-21,Portugal,Portugal,0,FAIBLE,Héritier,Patrimoine,HNWI,2275222.35,234960.3,physique,False,,False,False,False,clear,clear,2018-09-15
+CLI_0815,Rousset,Étienne,1968-12-12,Norway,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,4082790.17,459901.46,physique,False,,False,False,False,clear,clear,2020-10-04
+CLI_0816,Nicolas,Édouard,1986-12-21,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1000000.0,117724.09,physique,False,,False,False,False,clear,clear,2016-08-30
+CLI_0817,Grenier,Josette,1959-11-01,Norway,Germany,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2390313.74,147210.52,physique,False,,False,False,False,clear,clear,2022-04-14
+CLI_0818,Lejeune,Corinne,1963-09-22,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,631499.43,72624.9,physique,False,,False,False,False,clear,clear,2024-01-21
+CLI_0819,Mathieu,Gabrielle,1956-11-10,France,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,457217.09,30485.03,physique,False,,False,False,False,clear,clear,2018-06-18
+CLI_0820,Camus,Sébastien,1952-12-11,Luxembourg,Luxembourg,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,4180060.44,209412.66,physique,False,,False,False,False,clear,clear,2018-11-07
+CLI_0821,Vincent,Andrée,1953-03-24,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1380419.62,164226.16,physique,False,,False,False,False,clear,clear,2019-12-20
+CLI_0822,Lefèvre,Camille,1996-05-07,Portugal,Portugal,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,777422.3,79455.58,physique,False,,False,False,False,clear,clear,2021-09-25
+CLI_0823,Munoz,Édouard,1988-05-11,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,mass_affluent,999999.0,110075.38,physique,False,,False,False,False,clear,clear,2025-01-09
+CLI_0824,Rémy,Louis,1959-04-10,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1538030.11,129711.75,physique,False,,False,False,False,clear,clear,2024-08-18
+CLI_0825,Leroy,Zacharie,1970-10-28,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1451558.31,118812.5,physique,False,,False,False,False,clear,clear,2020-11-19
+CLI_0826,Durand,Henri,1951-12-13,Belgium,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,791237.77,81846.59,physique,False,,False,False,False,clear,clear,2024-11-30
+CLI_0827,Toussaint,Grégoire,1954-09-05,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,832200.65,89276.72,moral,False,,False,False,False,clear,clear,2022-05-31
+CLI_0828,Le Goff,Jeanne,1996-06-07,Italy,Italy,0,FAIBLE,Rentier,Patrimoine,HNWI,1375046.33,135363.53,physique,False,,False,False,False,clear,clear,2019-10-04
+CLI_0829,Philippe,Grégoire,1990-07-19,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1477510.64,118052.33,physique,False,,False,False,False,clear,clear,2017-10-05
+CLI_0830,Ferreira,Marthe,1980-07-05,Portugal,Sweden,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1627817.59,106974.59,physique,False,,False,False,False,clear,clear,2024-12-19
+CLI_0831,Jacob,Susanne,1950-11-02,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,258388.56,22514.34,physique,False,,False,False,False,clear,clear,2019-02-08
+CLI_0832,Lenoir,Bernadette,1985-03-09,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1042303.41,120179.38,physique,False,,False,False,False,clear,clear,2017-09-19
+CLI_0833,Dupré,William,1989-11-07,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1000000.0,105779.55,physique,False,,False,False,False,clear,clear,2021-01-07
+CLI_0834,Traore,Susanne,1962-10-15,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1158390.04,97993.37,physique,False,,False,False,False,hit,clear,2018-10-05
+CLI_0835,Thierry,Roger,1987-10-21,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1935198.72,169066.6,physique,False,,False,False,False,clear,clear,2023-09-13
+CLI_0836,Ramos,Gilbert,1996-05-10,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2335999.28,175946.67,physique,False,,False,False,False,clear,clear,2016-08-06
+CLI_0837,Coulon,Richard,1984-04-02,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,5869912.85,352721.99,physique,False,,False,False,False,hit,clear,2017-11-17
+CLI_0838,Labbé,Inès,1975-09-11,France,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,296753.88,30065.83,moral,False,,False,False,False,clear,clear,2017-07-21
+CLI_0839,Wagner,Jacqueline,1990-11-27,France,France,0,FAIBLE,Notaire,Juridique,HNWI,3949208.27,219297.68,physique,False,,False,False,False,clear,clear,2021-10-02
+CLI_0840,Hamel,Philippine,1980-02-16,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1706931.39,171681.49,physique,False,,False,False,False,clear,clear,2018-11-21
+CLI_0841,Dos Santos,Gilles,1969-09-29,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1915281.95,207401.3,physique,False,,False,False,False,clear,clear,2020-10-29
+CLI_0842,Camus,Marianne,1959-08-02,Finland,Finland,0,FAIBLE,Héritier,Patrimoine,HNWI,3179942.41,179461.82,physique,False,,False,False,False,clear,clear,2018-01-31
+CLI_0843,Hoareau,Noël,1987-12-20,Denmark,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,107159.12,moral,False,,False,False,False,clear,clear,2018-09-13
+CLI_0844,Boulanger,Stéphanie,1981-06-26,Finland,Finland,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2591342.97,195359.05,physique,False,,False,False,False,clear,clear,2020-05-13
+CLI_0845,Guillaume,Sophie,1956-10-15,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,472872.41,44774.98,physique,False,,False,False,False,clear,hit,2019-10-25
+CLI_0846,Voisin,Aurore,1972-07-22,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,mass_affluent,538735.77,40386.56,physique,False,,False,False,False,clear,clear,2023-04-09
+CLI_0847,Meunier,Capucine,1988-06-20,Luxembourg,Portugal,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2427610.63,206954.99,physique,False,,False,False,False,clear,clear,2025-04-25
+CLI_0848,Blanc,Marguerite,1967-02-25,Italy,Italy,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,999999.0,111964.16,physique,False,,False,False,False,clear,clear,2020-10-06
+CLI_0849,Schneider,Philippe,1977-01-29,Norway,Italy,0,FAIBLE,Directeur financier,Finance,mass_affluent,342800.53,31747.35,moral,False,,False,False,False,clear,clear,2017-07-15
+CLI_0850,Moulin,Julien,1974-02-02,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1367236.53,105460.97,physique,False,,False,False,False,clear,clear,2020-02-25
+CLI_0851,Clément,Jacqueline,1956-08-31,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1281832.99,151033.64,physique,False,,False,False,False,clear,clear,2024-12-22
+CLI_0852,Grondin,Bernard,1956-06-24,France,France,0,FAIBLE,Héritier,Patrimoine,mass_affluent,354268.07,35336.77,physique,False,,False,False,False,pending,hit,2022-07-18
+CLI_0853,Faivre,Audrey,1988-07-08,Italy,Italy,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1269113.28,139767.73,moral,False,,False,False,False,clear,clear,2021-02-18
+CLI_0854,Renaud,Joseph,1985-12-04,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,4557622.08,371475.64,physique,False,,False,False,False,pending,clear,2023-05-24
+CLI_0855,Joseph,Sylvie,1953-07-22,Portugal,Norway,0,FAIBLE,Dirigeant PME,Industrie,HNWI,5359348.48,377010.03,physique,False,,False,False,False,clear,clear,2024-10-16
+CLI_0856,Gillet,Victoire,1995-05-08,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1329718.2,83265.8,physique,False,,False,False,False,clear,clear,2020-10-29
+CLI_0857,Royer,Lucy,1992-07-22,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1107206.9,92269.49,physique,False,,False,False,False,clear,clear,2025-07-17
+CLI_0858,Vallée,Claire,1974-06-29,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,534221.71,56946.62,physique,False,,False,False,False,hit,clear,2022-05-21
+CLI_0859,Maury,Hugues,1969-10-06,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1347071.95,73884.38,physique,False,,False,False,False,clear,clear,2016-11-22
+CLI_0860,Pottier,Chantal,1953-02-17,Belgium,Sweden,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,569875.23,45588.54,physique,False,,False,False,False,clear,clear,2016-08-31
+CLI_0861,François,Célina,1992-10-01,Luxembourg,Luxembourg,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2285387.41,225117.75,moral,False,,False,False,False,clear,clear,2019-04-26
+CLI_0862,Nicolas,Juliette,1986-05-04,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,101570.35,physique,False,,False,False,False,clear,clear,2017-01-13
+CLI_0863,Riou,Monique,1973-02-20,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,5857618.27,698091.63,physique,False,,False,False,False,clear,clear,2017-01-31
+CLI_0864,Bertrand,Alfred,1990-10-09,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,6969920.46,429535.79,physique,False,,False,False,False,clear,clear,2018-11-25
+CLI_0865,Launay,Lorraine,1973-05-16,Germany,Germany,0,FAIBLE,Notaire,Juridique,HNWI,1291155.25,142986.5,physique,False,,False,False,False,clear,clear,2021-01-11
+CLI_0866,Legendre,Gérard,1956-03-25,Belgium,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1511493.67,124120.31,physique,False,,False,False,False,clear,clear,2021-01-07
+CLI_0867,Marie,Astrid,1964-01-25,France,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2422003.8,277947.93,physique,False,,False,False,False,pending,clear,2019-07-14
+CLI_0868,Le Gall,Olivie,1961-05-20,Denmark,France,0,FAIBLE,Directeur financier,Finance,HNWI,2505802.88,142778.51,physique,False,,False,False,False,clear,clear,2023-03-09
+CLI_0869,François,Thomas,1973-04-12,Italy,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3143920.01,366388.05,physique,False,,False,False,False,clear,clear,2022-09-21
+CLI_0870,Gaillard,Paulette,1953-01-15,Sweden,Sweden,0,FAIBLE,Directeur financier,Finance,HNWI,8098125.53,556605.55,moral,False,,False,False,False,clear,clear,2020-11-19
+CLI_0871,Lopez,Timothée,1991-05-24,Sweden,Sweden,0,FAIBLE,Directeur financier,Finance,HNWI,1751769.43,133499.55,physique,False,,True,False,False,clear,clear,2016-10-07
+CLI_0872,Pottier,Adélaïde,1958-08-26,France,France,0,FAIBLE,Ancien ministre,Politique,HNWI,1133920.81,107847.67,physique,True,PPE1,False,False,False,clear,clear,2023-05-21
+CLI_0873,Lacombe,Édith,1968-10-12,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,254809.71,16860.21,physique,False,,False,False,False,clear,clear,2024-08-30
+CLI_0874,Maillot,Alexandrie,1967-10-12,Portugal,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1188674.02,76388.21,physique,False,,False,False,False,clear,clear,2025-02-08
+CLI_0875,Philippe,Alain,1952-03-07,Belgium,Belgium,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1937310.29,196427.46,physique,False,,False,False,False,clear,clear,2022-10-15
+CLI_0876,Aubert,Zoé,1971-04-07,France,France,0,FAIBLE,Directeur financier,Finance,mass_affluent,906932.36,95249.1,physique,False,,False,False,False,clear,clear,2019-01-23
+CLI_0877,Menard,Céline,1951-10-01,Germany,Luxembourg,0,FAIBLE,Expert comptable,Finance,HNWI,1380107.69,80857.61,physique,False,,False,False,False,clear,clear,2017-04-25
+CLI_0878,Berthelot,Jacqueline,1950-03-18,France,France,0,FAIBLE,Rentier,Patrimoine,mass_affluent,483842.72,40669.99,physique,False,,False,False,False,clear,clear,2024-07-17
+CLI_0879,Diaz,Marthe,1953-05-11,Sweden,Sweden,0,FAIBLE,Directeur financier,Finance,mass_affluent,439516.63,41395.85,physique,False,,False,False,False,clear,clear,2021-02-23
+CLI_0880,Renard,Alexandria,1992-11-23,France,France,0,FAIBLE,Directeur banque centrale,Finance,HNWI,4555634.11,523263.88,physique,True,PPE1,False,False,False,clear,clear,2018-10-28
+CLI_0881,Besnard,Julien,1972-07-25,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,999999.0,55840.94,physique,False,,False,False,False,clear,clear,2024-10-27
+CLI_0882,Charrier,Simone,1992-03-22,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1367359.22,158947.57,physique,False,,False,False,False,clear,clear,2017-07-06
+CLI_0883,Thierry,Christelle,1993-05-27,Finland,Finland,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,363750.77,38407.34,physique,False,,False,False,False,clear,clear,2022-02-01
+CLI_0884,Bertin,Nathalie,1985-03-19,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,4118141.86,307642.02,physique,False,,False,False,False,clear,clear,2023-07-20
+CLI_0885,Bourdon,Gabriel,1984-12-01,Denmark,Sweden,0,FAIBLE,Ancien ministre,Politique,mass_affluent,581145.59,55299.99,physique,True,PPE1,False,False,False,clear,clear,2019-12-10
+CLI_0886,Rolland,Aurore,1972-08-05,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,7222380.23,434446.23,physique,False,,False,False,False,clear,clear,2022-10-14
+CLI_0887,Buisson,Bernadette,1965-06-22,Portugal,Portugal,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2983923.88,274897.37,physique,False,,False,False,False,clear,clear,2017-03-14
+CLI_0888,Evrard,Étienne,1967-08-01,Belgium,Belgium,0,FAIBLE,Rentier,Patrimoine,mass_affluent,383188.83,30833.05,physique,False,,False,False,False,clear,clear,2024-09-06
+CLI_0889,Carpentier,Sophie,1965-04-13,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,560319.22,43032.53,physique,False,,False,False,False,clear,clear,2017-11-01
+CLI_0890,Blot,Éléonore,1974-10-02,Finland,Finland,0,FAIBLE,Haut fonctionnaire,Politique,HNWI,4308466.1,376313.02,physique,True,PPE1,False,False,False,clear,clear,2025-06-11
+CLI_0891,Robert,Colette,1956-07-09,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,3521288.48,313223.94,physique,False,,False,False,False,clear,clear,2018-08-11
+CLI_0892,Delannoy,Marguerite,1973-02-25,Sweden,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2828032.57,161740.99,physique,False,,False,False,False,clear,clear,2022-06-19
+CLI_0893,Lebreton,Antoinette,1958-02-28,Monaco,Spain,0,FAIBLE,Rentier,Patrimoine,mass_affluent,677842.25,51395.06,physique,False,,False,False,False,pending,clear,2022-11-07
+CLI_0894,Alexandre,Édouard,1970-05-15,Sweden,Sweden,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,706245.53,69321.19,moral,False,,False,False,False,clear,clear,2016-10-16
+CLI_0895,Blanchard,Marine,1948-04-17,Denmark,Luxembourg,0,FAIBLE,Notaire,Juridique,HNWI,5217408.05,613611.73,physique,False,,False,False,False,clear,clear,2023-11-30
+CLI_0896,Bodin,Honoré,1979-12-06,Belgium,Belgium,0,FAIBLE,Notaire,Juridique,HNWI,3122351.37,176181.66,physique,False,,False,False,False,clear,clear,2019-09-08
+CLI_0897,Gilbert,Franck,1968-04-04,Belgium,Finland,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1763863.87,95634.38,physique,False,,False,False,False,clear,clear,2022-08-25
+CLI_0898,Royer,Gilles,1983-06-04,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,2197211.43,157820.82,physique,False,,False,False,False,clear,clear,2023-08-30
+CLI_0899,Chauvin,Christelle,1986-01-16,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,4613771.88,359940.38,physique,False,,False,False,False,clear,clear,2020-10-05
+CLI_0900,Michel,Michèle,1974-05-21,Luxembourg,Luxembourg,0,FAIBLE,Notaire,Juridique,HNWI,1119222.75,126009.78,physique,False,,False,False,False,clear,clear,2022-01-09
+CLI_0901,Guillot,Valérie,1985-02-12,France,France,0,FAIBLE,Entrepreneur tech,Technologie,mass_affluent,512711.88,41098.67,physique,False,,False,False,False,clear,clear,2020-01-12
+CLI_0902,Pichon,Catherine,1993-04-30,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,378005.67,32912.72,physique,False,,False,False,False,clear,clear,2019-12-27
+CLI_0903,Dumont,Lucas,1964-11-12,Belgium,Belgium,0,FAIBLE,Ancien ministre,Politique,mass_affluent,447529.59,29856.35,physique,True,PPE1,False,False,False,clear,clear,2019-03-01
+CLI_0904,Deschamps,Clémence,1968-08-21,Portugal,Portugal,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,737765.09,47511.61,physique,False,,False,False,False,clear,clear,2023-04-30
+CLI_0905,Bodin,Lorraine,1993-04-21,Belgium,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,2266549.86,248594.0,physique,False,,False,False,False,clear,clear,2021-08-30
+CLI_0906,Bernier,Lucie,1960-03-30,France,France,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,2048268.96,127865.35,physique,False,,False,False,False,clear,clear,2021-09-28
+CLI_0907,Mathieu,Martin,1990-12-18,Finland,Finland,0,FAIBLE,Expert comptable,Finance,HNWI,1000000.0,53162.36,physique,False,,False,False,False,clear,clear,2024-11-06
+CLI_0908,Letellier,Suzanne,1947-12-06,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,3342994.42,281969.31,physique,False,,False,False,False,clear,clear,2019-04-16
+CLI_0909,Besson,Audrey,1945-12-22,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3115309.08,342643.29,physique,False,,False,False,False,clear,clear,2020-05-02
+CLI_0910,Rolland,Marcelle,1974-03-06,Spain,Belgium,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,9013899.26,676074.97,physique,False,,False,False,False,clear,clear,2021-02-13
+CLI_0911,Paul,Bernard,1974-12-09,Belgium,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1598466.41,178069.29,physique,False,,False,False,False,clear,clear,2022-10-07
+CLI_0912,Lévy,Suzanne,1971-12-31,Luxembourg,Luxembourg,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2311495.39,268523.31,physique,False,,False,False,False,clear,clear,2023-12-12
+CLI_0913,Tessier,Isaac,1948-09-17,Portugal,Portugal,0,FAIBLE,Rentier,Patrimoine,HNWI,2360935.69,278266.71,physique,False,,False,False,False,clear,clear,2021-09-10
+CLI_0914,Bernard,Bernard,1961-01-10,France,France,0,FAIBLE,Diplomate,Politique,HNWI,5981711.54,326141.78,physique,True,PPE1,False,False,False,clear,clear,2023-10-21
+CLI_0915,Mahe,Véronique,1956-02-13,Finland,Finland,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,425866.75,25398.83,physique,False,,False,False,False,clear,clear,2017-06-03
+CLI_0916,Simon,Dominique,1946-01-09,Luxembourg,Luxembourg,0,FAIBLE,Notaire,Juridique,HNWI,2410428.45,219266.4,physique,False,,False,False,False,clear,clear,2018-05-10
+CLI_0917,Devaux,Benjamin,1949-01-12,Belgium,France,0,FAIBLE,Banquier privé,Finance,HNWI,3034409.98,347177.74,moral,False,,False,False,False,clear,clear,2018-05-21
+CLI_0918,Barbier,Jacqueline,1995-12-20,Sweden,Sweden,0,FAIBLE,Banquier privé,Finance,HNWI,2259437.36,160588.06,physique,False,,False,False,False,clear,clear,2017-06-26
+CLI_0919,Giraud,Inès,1982-04-25,Belgium,Belgium,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1450612.54,123689.47,physique,False,,False,False,False,clear,clear,2016-11-28
+CLI_0920,Leleu,Marthe,1986-03-25,France,France,0,FAIBLE,Diplomate,Politique,HNWI,2271300.19,180487.29,physique,True,PPE1,False,False,False,clear,clear,2023-12-14
+CLI_0921,Garnier,Alexandre,1971-05-14,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,4203979.88,458895.99,physique,False,,False,False,False,clear,clear,2016-08-07
+CLI_0922,Traore,Michèle,1971-11-29,Italy,Italy,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,293429.85,26879.28,physique,False,,False,False,False,clear,clear,2017-08-20
+CLI_0923,Raynaud,Élise,1951-03-04,Sweden,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2176173.84,130767.66,physique,False,,False,False,False,clear,clear,2020-01-04
+CLI_0924,Rolland,Pierre,1977-12-11,France,Belgium,0,FAIBLE,Rentier,Patrimoine,HNWI,1214587.94,113754.02,moral,False,,False,False,False,clear,clear,2017-11-30
+CLI_0925,Albert,Vincent,1975-05-28,Sweden,Sweden,0,FAIBLE,Avocat d'affaires,Juridique,mass_affluent,713557.75,38457.71,physique,False,,False,False,False,clear,hit,2023-11-06
+CLI_0926,Brun,Grégoire,1990-04-28,Finland,Finland,0,FAIBLE,Rentier,Patrimoine,HNWI,1000000.0,80264.76,physique,False,,False,False,False,clear,clear,2024-09-11
+CLI_0927,Pasquier,Benoît,1988-03-13,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1340770.1,76425.74,physique,False,,False,False,False,clear,clear,2018-08-06
+CLI_0928,Verdier,Josette,1952-04-20,France,France,0,FAIBLE,Banquier privé,Finance,HNWI,2581931.48,231069.02,physique,False,,False,False,False,clear,clear,2017-12-05
+CLI_0929,Moreno,Bernadette,1987-01-01,Germany,Sweden,0,FAIBLE,Expert comptable,Finance,HNWI,5931969.38,486922.81,moral,False,,False,False,False,clear,clear,2023-10-03
+CLI_0930,Lopez,Dorothée,1967-01-23,Finland,Finland,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1893570.61,141318.48,physique,False,,False,False,False,clear,clear,2024-12-23
+CLI_0931,Marin,Emmanuelle,1947-04-17,Italy,Italy,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,1344268.2,157788.66,physique,False,,False,False,False,clear,clear,2018-11-28
+CLI_0932,Lefèvre,Simone,1986-05-10,Belgium,Belgium,0,FAIBLE,Directeur financier,Finance,HNWI,7398663.61,689727.48,physique,False,,False,False,False,clear,clear,2019-03-23
+CLI_0933,Bouchet,Joséphine,1957-08-13,Italy,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,106598.88,physique,False,,False,False,False,clear,clear,2021-05-03
+CLI_0934,Bonnin,Luc,1991-12-11,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1000000.0,52619.28,physique,False,,False,False,False,clear,clear,2023-02-22
+CLI_0935,Guyot,Richard,1955-10-04,Portugal,Belgium,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,527553.62,47566.65,physique,False,,False,False,False,clear,clear,2018-11-27
+CLI_0936,Imbert,Jules,1968-06-06,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1395219.13,72128.66,physique,False,,False,False,False,clear,clear,2023-08-06
+CLI_0937,Lebon,Caroline,1948-09-18,France,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1000000.0,101098.4,physique,False,,False,False,False,clear,clear,2017-03-22
+CLI_0938,Normand,Anne,1968-07-18,Norway,Finland,0,FAIBLE,Notaire,Juridique,HNWI,3255477.48,345444.29,physique,False,,False,False,False,clear,clear,2021-03-11
+CLI_0939,Boucher,Pénélope,1967-10-20,Belgium,Belgium,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,487731.48,35684.57,physique,False,,False,False,False,clear,clear,2020-06-08
+CLI_0940,Benoit,Gérard,1956-09-16,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1335938.98,89371.5,moral,False,,False,False,False,clear,clear,2018-06-05
+CLI_0941,Benoit,Suzanne,1983-09-16,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,52259.23,physique,False,,False,False,False,clear,clear,2019-10-22
+CLI_0942,Bonnin,Marthe,1983-04-20,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,3651761.2,201226.04,physique,False,,False,False,False,clear,clear,2022-11-07
+CLI_0943,Roux,Élise,1988-01-19,Denmark,Italy,0,FAIBLE,Dirigeant PME,Industrie,HNWI,3125612.51,350463.38,physique,False,,False,False,False,clear,clear,2025-02-20
+CLI_0944,Sauvage,Théophile,1973-11-07,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1849779.31,99656.78,physique,False,,False,False,False,clear,clear,2016-08-07
+CLI_0945,Laine,Maggie,1996-04-13,Finland,Finland,0,FAIBLE,Directeur financier,Finance,HNWI,7222024.67,578341.94,physique,False,,False,False,False,clear,clear,2020-03-25
+CLI_0946,Martineau,Margaux,1946-07-23,Luxembourg,Sweden,0,FAIBLE,Parlementaire,Politique,HNWI,1000000.0,66671.91,physique,True,PPE1,False,False,False,clear,clear,2022-10-27
+CLI_0947,Bègue,Claire,1974-08-02,Portugal,Portugal,0,FAIBLE,Banquier privé,Finance,mass_affluent,240335.21,12973.74,physique,False,,False,False,False,clear,clear,2018-09-07
+CLI_0948,Royer,Xavier,1980-04-03,France,France,0,FAIBLE,Expert comptable,Finance,HNWI,1221590.62,71544.1,physique,False,,False,False,False,clear,clear,2017-11-04
+CLI_0949,Boyer,Simone,1991-05-10,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1920487.83,145352.8,physique,False,,False,False,False,clear,clear,2020-09-24
+CLI_0950,Lemonnier,Margaret,1983-08-02,Sweden,Sweden,0,FAIBLE,Promoteur immobilier,Immobilier,mass_affluent,487641.5,45609.61,physique,False,,False,False,False,clear,clear,2018-03-11
+CLI_0951,Devaux,Madeleine,1958-11-30,Norway,Norway,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,401717.98,26697.12,physique,False,,False,False,False,clear,clear,2020-11-08
+CLI_0952,Millet,Rémy,1954-09-07,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,2536862.85,278598.78,physique,False,,False,False,False,clear,clear,2019-02-26
+CLI_0953,Laine,Marcel,1982-12-15,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1000000.0,87908.44,physique,False,,False,False,False,clear,clear,2019-11-05
+CLI_0954,Legendre,Antoinette,1955-05-03,Sweden,Sweden,0,FAIBLE,Héritier,Patrimoine,HNWI,5447325.01,588565.83,physique,False,,False,False,False,clear,clear,2018-11-10
+CLI_0955,Mercier,Gabriel,1991-06-26,Portugal,Portugal,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1871955.52,223441.07,physique,False,,False,False,False,clear,clear,2017-09-22
+CLI_0956,Guillou,Jacques,1954-06-10,Italy,Italy,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,4334457.79,221329.72,moral,False,,False,False,False,clear,clear,2019-04-23
+CLI_0957,Guillet,Anne,1965-10-20,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,2520348.5,170214.08,physique,False,,False,False,False,clear,clear,2017-04-12
+CLI_0958,Daniel,Geneviève,1968-08-10,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,2729768.2,225617.43,physique,False,,False,False,False,clear,clear,2022-06-14
+CLI_0959,De Sousa,Benjamin,1975-05-03,Sweden,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,555657.24,44914.2,physique,False,,False,False,False,clear,clear,2021-08-24
+CLI_0960,Mendès,Camille,1971-01-13,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2712539.92,142937.63,physique,False,,False,False,False,clear,clear,2020-09-13
+CLI_0961,Imbert,Hugues,1963-05-11,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,3109293.01,339364.29,physique,False,,False,False,False,clear,clear,2017-12-02
+CLI_0962,Lemoine,Robert,1972-05-02,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,752879.91,57215.23,physique,False,,False,False,False,clear,clear,2023-06-23
+CLI_0963,Rémy,Suzanne,1994-08-09,Luxembourg,Sweden,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2275168.83,173436.33,physique,False,,False,False,False,clear,clear,2022-08-17
+CLI_0964,Gimenez,Thomas,1976-05-03,Italy,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3256952.92,279302.38,physique,False,,False,False,False,clear,clear,2021-06-29
+CLI_0965,Letellier,Pierre,1987-07-15,France,France,0,FAIBLE,Chef d'entreprise,Commerce,mass_affluent,426814.91,40737.28,physique,False,,False,False,False,clear,pending,2016-08-24
+CLI_0966,Guillou,Suzanne,1946-12-24,Belgium,Belgium,0,FAIBLE,Directeur banque centrale,Finance,HNWI,5433434.79,594046.42,physique,True,PPE1,False,False,False,clear,clear,2016-10-23
+CLI_0967,Coulon,François,1982-07-19,Belgium,Belgium,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1234930.67,130816.72,physique,False,,False,False,False,clear,clear,2019-01-18
+CLI_0968,Weiss,Madeleine,1987-02-09,Germany,Germany,0,FAIBLE,Directeur financier,Finance,HNWI,6994665.21,597309.72,physique,False,,False,False,False,clear,clear,2021-06-14
+CLI_0969,Guillon,Xavier,1967-01-25,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,1927798.88,219091.65,physique,False,,False,False,False,clear,clear,2019-09-18
+CLI_0970,Ramos,Marguerite,1978-02-28,Italy,Italy,0,FAIBLE,Promoteur immobilier,Immobilier,HNWI,1000000.0,94284.08,physique,False,,False,False,False,clear,clear,2016-10-17
+CLI_0971,Alexandre,Eugène,1947-11-26,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,2168775.09,240434.99,physique,False,,False,False,False,clear,clear,2023-06-29
+CLI_0972,Salmon,Maurice,1984-12-02,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1230909.44,109533.53,physique,False,,False,False,False,clear,clear,2018-11-11
+CLI_0973,Schneider,Jeanne,1986-11-07,Monaco,Sweden,0,FAIBLE,Expert comptable,Finance,HNWI,3571336.61,416040.48,physique,False,,False,False,False,clear,clear,2020-07-05
+CLI_0974,Fleury,Maurice,1981-05-15,Denmark,France,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1255649.11,145107.21,physique,False,,False,False,False,clear,clear,2023-09-16
+CLI_0975,Leroy,Alfred,1962-05-14,France,France,0,FAIBLE,Directeur financier,Finance,HNWI,1450866.61,151050.36,physique,False,,False,False,False,clear,clear,2022-08-19
+CLI_0976,Breton,Suzanne,1988-09-05,Belgium,Belgium,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1000000.0,62489.11,physique,False,,False,False,False,clear,clear,2018-02-15
+CLI_0977,Charrier,Alphonse,1970-06-27,Denmark,Denmark,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1444661.47,88978.83,physique,False,,False,False,False,clear,clear,2023-02-21
+CLI_0978,Barthelemy,Robert,1946-12-25,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1000000.0,59870.22,physique,False,,False,False,False,clear,clear,2021-10-05
+CLI_0979,Torres,Alain,1947-03-15,France,France,0,FAIBLE,Héritier,Patrimoine,HNWI,1000000.0,107567.87,physique,False,,False,False,False,clear,clear,2017-02-13
+CLI_0980,Samson,Renée,1984-02-19,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,3376297.52,368462.4,physique,False,,False,False,False,clear,clear,2023-05-31
+CLI_0981,Lemaître,Hugues,1947-08-09,Sweden,Sweden,0,FAIBLE,Directeur banque centrale,Finance,HNWI,3436830.06,350898.38,physique,True,PPE1,False,False,False,clear,clear,2024-01-27
+CLI_0982,Rocher,Timothée,1968-12-25,France,France,0,FAIBLE,Médecin chirurgien,Santé,HNWI,2670617.54,306402.88,physique,False,,False,False,False,clear,clear,2023-11-26
+CLI_0983,Julien,Christophe,1993-09-02,France,France,0,FAIBLE,Rentier,Patrimoine,HNWI,1007635.14,67727.15,physique,False,,False,False,False,clear,clear,2019-12-17
+CLI_0984,Collin,Martin,1973-08-07,France,France,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,434050.19,48314.33,physique,False,,False,False,False,clear,clear,2019-06-18
+CLI_0985,Blanchet,Nathalie,1955-06-03,France,France,0,FAIBLE,Dirigeant PME,Industrie,mass_affluent,441776.33,41057.13,physique,False,,False,False,False,clear,clear,2021-04-03
+CLI_0986,Morvan,Capucine,1996-04-19,Belgium,Belgium,0,FAIBLE,Ancien ministre,Politique,HNWI,1000000.0,84315.54,physique,True,PPE1,False,False,False,clear,clear,2017-03-02
+CLI_0987,Robert,Margot,1946-03-11,Luxembourg,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,5679528.7,413343.57,physique,False,,False,False,False,clear,clear,2024-06-03
+CLI_0988,Lamy,Élise,1996-01-17,Germany,France,0,FAIBLE,Dirigeant PME,Industrie,HNWI,3664320.98,404836.55,physique,False,,False,False,False,clear,clear,2020-08-14
+CLI_0989,Moreno,Françoise,1985-11-09,France,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1698617.22,122696.7,physique,False,,False,False,False,clear,clear,2022-04-11
+CLI_0990,Bègue,Augustin,1949-05-25,Sweden,Sweden,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2020428.32,132321.29,physique,False,,False,False,False,clear,clear,2020-09-02
+CLI_0991,Delaunay,Henri,1982-12-05,France,France,0,FAIBLE,Diplomate,Politique,HNWI,2294138.54,230689.42,physique,True,PPE1,False,False,False,clear,clear,2017-01-19
+CLI_0992,Chauvin,Laurence,1961-08-25,Sweden,Sweden,0,FAIBLE,Gestionnaire de fonds,Finance,HNWI,1000000.0,118965.21,physique,False,,False,False,False,clear,clear,2021-05-04
+CLI_0993,Boyer,Denis,1952-09-23,Italy,France,0,FAIBLE,Chef d'entreprise,Commerce,HNWI,1667733.09,87598.09,physique,False,,False,False,False,clear,clear,2023-06-03
+CLI_0994,Dupont,Zoé,1959-03-10,France,France,0,FAIBLE,Avocat d'affaires,Juridique,HNWI,1230106.15,84965.99,physique,False,,False,False,False,clear,clear,2017-08-23
+CLI_0995,Carpentier,Agathe,1947-03-07,France,France,0,FAIBLE,Gestionnaire de fonds,Finance,mass_affluent,296366.46,30017.39,physique,False,,False,False,False,clear,clear,2021-11-12
+CLI_0996,Gallet,Jeanne,1986-09-28,Luxembourg,Luxembourg,0,FAIBLE,Dirigeant PME,Industrie,HNWI,1628597.54,129898.06,physique,False,,False,False,False,clear,clear,2021-07-12
+CLI_0997,Coste,Maurice,1984-12-11,France,France,0,FAIBLE,Diplomate,Politique,HNWI,6978751.35,821273.72,physique,True,PPE1,False,False,False,clear,clear,2020-09-05
+CLI_0998,Blot,Margot,1968-12-05,Belgium,Belgium,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,3105204.1,310584.1,physique,False,,False,False,False,clear,clear,2020-04-02
+CLI_0999,Peron,Anastasie,1956-11-04,Portugal,Italy,0,FAIBLE,Médecin chirurgien,Santé,mass_affluent,352049.97,41650.05,physique,False,,False,False,False,clear,clear,2017-06-06
+CLI_1000,Leroux,Agnès,1951-07-15,Monaco,France,0,FAIBLE,Entrepreneur tech,Technologie,HNWI,2960320.05,305625.55,physique,False,,False,False,False,clear,clear,2017-12-24
