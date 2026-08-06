@@ -1,0 +1,709 @@
+id_contrat,code_regle,nom_regle,description,detail,score_risque,niveau,source,date_detection
+BA000001,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000013,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000014,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000018,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000021,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000022,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000025,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000027,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000027,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000041,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 47 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000041,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000041,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000041,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 16 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000041,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000041,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000052,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000055,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 88 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000055,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000055,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000055,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000055,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000060,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000062,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 30 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000062,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000062,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000062,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000062,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000071,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000081,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000085,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000090,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000092,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000092,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000096,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000100,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000100,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 39 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000108,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 35 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000108,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000108,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000108,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000108,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000112,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000114,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 33 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000114,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000114,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000114,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000114,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000115,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000119,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000125,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 83 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000125,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000125,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000125,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000125,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000129,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000136,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000143,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000145,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 2 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000146,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 43 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000146,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000146,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000146,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000146,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000150,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000161,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000162,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000163,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000171,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000172,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 16 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000190,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000195,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 3 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000198,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000199,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000199,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000204,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000213,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 80 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000213,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000213,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000213,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000213,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000213,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000214,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 55 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000214,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000214,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000214,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000214,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000214,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,4 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000215,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 43 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000215,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000215,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000215,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000215,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000222,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000223,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 57 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000223,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000223,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000223,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000223,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000223,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000231,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000245,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000248,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000253,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000253,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000258,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000261,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 76 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000261,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000261,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000261,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000261,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000265,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000271,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000277,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000278,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000281,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000282,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000286,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000289,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000299,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000306,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 17 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000306,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000310,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 33 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000310,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000310,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000310,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000310,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000317,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000318,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000319,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 69 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000319,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000319,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000319,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000319,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000320,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 59 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000320,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000320,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000320,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000320,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000325,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000328,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000333,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 90 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000333,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000333,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000333,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000333,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000334,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000347,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000348,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000350,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000352,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000353,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 83 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000353,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000353,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000353,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000353,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000360,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 56 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000360,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000360,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000360,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 24 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000360,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000360,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000362,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000365,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000366,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000367,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000369,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000376,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 87 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000376,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000376,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000376,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000376,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000376,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000377,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000377,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000385,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000398,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000399,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000399,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 18 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000399,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000401,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000402,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 87 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000402,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000402,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000402,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000402,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000416,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000417,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000421,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000429,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000432,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 88 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000432,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000432,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000432,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000432,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000440,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000443,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 33 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000443,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000443,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000443,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000443,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000446,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000450,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000465,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000469,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000473,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000478,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000485,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000486,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000488,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000505,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000508,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000515,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000516,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000524,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000527,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000530,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 40 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000530,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000530,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000530,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000530,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000530,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000537,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 64 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000537,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000537,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000537,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000537,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000537,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000542,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000553,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 60 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000553,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000553,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000553,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000553,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000553,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000570,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000574,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000580,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000590,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000591,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 16 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000592,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 70 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000592,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000592,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000592,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000592,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000598,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000599,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000608,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000611,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000611,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 47 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000613,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000617,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000620,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000621,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000621,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 39 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000627,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000631,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 72 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000631,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000631,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000631,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000631,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000632,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000632,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA000633,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 37 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000633,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000633,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000633,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000633,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000636,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000639,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000639,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000640,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000643,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000657,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 50 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000657,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000657,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000657,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000657,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000660,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000669,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 53 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000669,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000669,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000669,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000669,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000672,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000679,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000691,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 32 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000691,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000691,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000691,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 16 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000691,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000691,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000696,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000698,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000698,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 39 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000701,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 33 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000701,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000701,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000701,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000701,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000702,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000702,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000705,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000707,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000715,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA000716,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000720,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 50 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000720,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000720,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000720,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000720,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000722,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000724,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000725,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000725,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000726,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000728,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 47 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000728,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000728,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000728,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000728,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000732,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 65 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000732,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000732,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000732,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000732,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000735,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000739,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000741,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000747,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000750,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 43 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000750,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000750,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000750,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000750,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000752,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 72 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000752,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000752,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000752,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000752,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 22 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000752,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000752,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000765,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 76 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000765,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000765,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000765,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000765,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000770,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000771,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000779,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000783,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 89 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000783,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000783,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000783,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000783,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000786,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000792,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000793,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000799,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA000806,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000810,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000816,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000817,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000825,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000827,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 33 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000827,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000827,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000827,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000827,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 21 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000827,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000827,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000840,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000840,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 39 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA000858,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000861,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000868,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000871,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000877,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000883,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 56 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000883,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000883,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000883,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000883,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000891,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000895,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000895,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000897,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 72 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000897,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000897,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000897,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000897,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000904,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000906,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 69 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000906,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000906,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000906,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000906,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000911,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000914,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000915,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000918,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 88 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000918,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000918,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000918,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000918,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000919,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000929,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000930,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000936,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 80 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000936,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000936,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000936,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000936,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000941,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000943,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 55 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000943,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000943,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000943,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000943,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000944,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000961,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 81 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000961,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000961,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000961,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000961,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000965,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 45 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000965,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000965,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000965,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000965,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000965,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000976,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 62 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000976,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000976,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000976,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000976,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA000976,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000977,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA000979,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000982,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000985,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000994,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 88 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA000994,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA000994,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA000994,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000994,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA000998,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001014,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001021,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 32 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001021,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001021,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001021,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001021,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001026,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001026,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001027,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001028,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001029,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001039,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001043,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001044,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001045,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001060,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001064,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001079,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001082,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001086,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001086,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001090,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 65 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001090,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001090,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001090,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001090,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Hong Kong,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001090,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001094,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001095,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001114,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001116,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001117,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001133,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001134,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001136,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 59 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001136,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001136,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001136,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001136,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001139,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001139,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA001148,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001153,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001162,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001163,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001168,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA001169,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001169,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001174,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001177,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 61 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001177,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001177,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001177,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001177,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001186,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001204,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 60 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001204,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001204,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001204,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA001204,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 20 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA001204,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001204,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001208,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001217,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA001222,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001224,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 49 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001224,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001224,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001224,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001224,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001226,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001232,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 54 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001232,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001232,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001232,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001232,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001232,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001234,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA001237,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001238,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001239,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001240,R10,Rachats multiples,Plus de 2 rachats sur les 2 dernières années,3 rachats sur les 2 dernières années,0.65,MEDIUM,LC 18/9 — Question I44,2026-08-06
+BA001246,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001250,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001251,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001258,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA001265,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001265,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001266,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001266,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001283,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 43 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001283,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001283,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001283,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001283,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001284,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 41 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001284,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001284,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001284,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001284,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001287,R08,Structure opaque,Client avec structure juridique complexe (personne morale),Client avec structure juridique morale,0.55,MEDIUM,LC 18/9 — Question I12,2026-08-06
+BA001290,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001293,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 54 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001293,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001293,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001293,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001293,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001300,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 65 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001300,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001300,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001300,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 3 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA001300,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 21 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA001300,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001300,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001305,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 38 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001305,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001305,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001305,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001305,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001305,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001308,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 90 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001308,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001308,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001308,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Cayman Islands,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001308,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001311,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 80 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001311,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001311,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001311,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001311,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 25 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA001311,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001315,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 58 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001315,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001315,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Destination fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001315,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001315,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : United Arab Emirates,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001315,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001315,R12,Arbitrage vers fonds offshore,Arbitrage vers un fonds dans une juridiction à risque,Arbitrage vers fonds suspect : PE_CAY_01,0.75,HIGH,LC 18/9 — Questions I35/I36,2026-08-06
+BA001323,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 81 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001323,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001323,R03,Pays interdit,Transaction vers ou depuis un pays interdit,Origine fonds pays interdit : Monaco,1.0,CRITICAL,Classification pays Wealins,2026-08-06
+BA001323,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001323,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 2 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA001323,R06,Score LC189 élevé,Score LC 18/9 supérieur à 15,Score LC 18/9 = 20 > 15,0.7,HIGH,LC 18/9 — Seuil HIGH,2026-08-06
+BA001323,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001329,R05,PEP avec rachat,Client PEP effectuant un rachat,Client PEP (PPE1) avec 1 rachat(s),0.85,HIGH,Procédure AML — Vigilance renforcée PEP,2026-08-06
+BA001332,R01,Rachat précoce,Rachat dans les 6 mois suivant la souscription,Rachat après 72 jours (< 180 jours),0.75,HIGH,Procédure AML section 5.2,2026-08-06
+BA001332,R02,Perte acceptée,Rachat avec pénalités disproportionnées acceptées,Rachat avec pénalités acceptées détecté,0.8,HIGH,LC 18/9 — Question I45,2026-08-06
+BA001332,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001332,R07,Pays élevé dans les flux,Banque origine ou destination dans pays à risque élevé,Banque origine dans pays élevé : Panama,0.6,MEDIUM,LC 18/9 — Questions I20 / I47,2026-08-06
+BA001332,R09,Rachat précoce et perte combinés,Rachat précoce ET perte acceptée simultanément,Rachat précoce ET perte acceptée — pattern blanchiment classique,0.95,CRITICAL,LC 18/9 — Question I50,2026-08-06
+BA001340,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001343,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA001345,R04,Tiers payeur,Paiement effectué par un tiers non justifié,Paiement par tiers détecté,0.65,MEDIUM,Procédure AML section 5.2,2026-08-06
+BA000030,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000030,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000030,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000035,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000060,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000071,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000084,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000090,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000100,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000147,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000155,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000159,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000187,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000190,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000219,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000227,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000240,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000247,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000247,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000248,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000281,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000321,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000332,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000356,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000429,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000469,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000472,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000493,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000509,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000521,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000535,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000541,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000554,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000590,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000608,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000638,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000659,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000715,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000731,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000737,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000741,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000756,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000756,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000777,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000851,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000873,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000922,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000932,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000949,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000964,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000983,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001010,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001065,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001086,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001097,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001100,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001141,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001168,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001175,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001210,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001222,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001250,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001258,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001285,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001303,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001315,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001320,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001328,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001342,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001346,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA001346,R_OFFSHORE,Fonds offshore detecte,Fonds dans juridiction offshore,Fonds Cayman Growth Fund I - Cayman Islands,0.7,HIGH,Analyse fonds UC,2026-08-06
+BA000041,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.889,0.8890293953581243,HIGH,Isolation Forest,2026-08-06
+BA000100,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.798,0.7979315522134152,MEDIUM,Isolation Forest,2026-08-06
+BA000195,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.764,0.7642122535681187,MEDIUM,Isolation Forest,2026-08-06
+BA000199,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.736,0.7362518183524749,MEDIUM,Isolation Forest,2026-08-06
+BA000214,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.804,0.80392022649929,MEDIUM,Isolation Forest,2026-08-06
+BA000249,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.751,0.7508724878481288,MEDIUM,Isolation Forest,2026-08-06
+BA000306,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.824,0.8242831531286201,MEDIUM,Isolation Forest,2026-08-06
+BA000360,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.733,0.7332346104160592,MEDIUM,Isolation Forest,2026-08-06
+BA000376,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.760,0.7598472089171999,MEDIUM,Isolation Forest,2026-08-06
+BA000398,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.800,0.7997304916398472,MEDIUM,Isolation Forest,2026-08-06
+BA000399,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.817,0.8174074910401256,MEDIUM,Isolation Forest,2026-08-06
+BA000478,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.757,0.7567802605501943,MEDIUM,Isolation Forest,2026-08-06
+BA000530,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.742,0.7418839812749682,MEDIUM,Isolation Forest,2026-08-06
+BA000537,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.856,0.8564031499413997,HIGH,Isolation Forest,2026-08-06
+BA000611,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.900,0.8997562869754574,HIGH,Isolation Forest,2026-08-06
+BA000621,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.803,0.8026850719063243,MEDIUM,Isolation Forest,2026-08-06
+BA000639,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.750,0.7498188370539745,MEDIUM,Isolation Forest,2026-08-06
+BA000647,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.723,0.7228525165485418,MEDIUM,Isolation Forest,2026-08-06
+BA000648,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.772,0.772399863936861,MEDIUM,Isolation Forest,2026-08-06
+BA000649,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.703,0.7028357095460496,MEDIUM,Isolation Forest,2026-08-06
+BA000691,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.894,0.8941118030830479,HIGH,Isolation Forest,2026-08-06
+BA000698,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.779,0.7786424543993851,MEDIUM,Isolation Forest,2026-08-06
+BA000701,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.801,0.8014499057945154,MEDIUM,Isolation Forest,2026-08-06
+BA000752,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.934,0.9335103016647146,HIGH,Isolation Forest,2026-08-06
+BA000765,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.712,0.712403893533253,MEDIUM,Isolation Forest,2026-08-06
+BA000827,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.985,0.984672523159758,HIGH,Isolation Forest,2026-08-06
+BA000840,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.795,0.7946858598416292,MEDIUM,Isolation Forest,2026-08-06
+BA000897,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.733,0.7326374319981623,MEDIUM,Isolation Forest,2026-08-06
+BA000977,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.708,0.7080909775177125,MEDIUM,Isolation Forest,2026-08-06
+BA001041,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.717,0.716708637011902,MEDIUM,Isolation Forest,2026-08-06
+BA001132,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.842,0.8421861477704047,MEDIUM,Isolation Forest,2026-08-06
+BA001204,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.937,0.936938006356886,HIGH,Isolation Forest,2026-08-06
+BA001293,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.712,0.7123212325151504,MEDIUM,Isolation Forest,2026-08-06
+BA001300,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 1.000,1.0,HIGH,Isolation Forest,2026-08-06
+BA001311,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.849,0.848812426294189,MEDIUM,Isolation Forest,2026-08-06
+BA001323,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.922,0.9216448838421866,HIGH,Isolation Forest,2026-08-06
+BA001346,ML_IF,Anomalie ML,Isolation Forest - score eleve,Score IF = 0.771,0.7707461947181066,MEDIUM,Isolation Forest,2026-08-06
