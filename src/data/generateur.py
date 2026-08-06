@@ -813,30 +813,30 @@ def generer_dataset_complet(
 ) -> dict:
     """Génère le dataset complet Wealins AML."""
 
-    print("🔄 Génération des clients...")
+    print(" Génération des clients...")
     clients = generer_clients(nb_clients)
-    print(f"   ✅ {len(clients):,} clients générés")
+    print(f"    {len(clients):,} clients générés")
 
-    print("🔄 Génération des contrats...")
+    print(" Génération des contrats...")
     contrats = generer_contrats(clients)
-    print(f"   ✅ {len(contrats):,} contrats générés")
+    print(f"    {len(contrats):,} contrats générés")
 
-    print("🔄 Génération des fonds UC...")
+    print(" Génération des fonds UC...")
     fonds = generer_fonds_uc(contrats)
-    print(f"   ✅ {len(fonds):,} fonds UC générés")
+    print(f"    {len(fonds):,} fonds UC générés")
 
-    print("🔄 Génération des transactions...")
+    print(" Génération des transactions...")
     transactions = generer_transactions(contrats, fonds)
-    print(f"   ✅ {len(transactions):,} transactions générées")
+    print(f"    {len(transactions):,} transactions générées")
 
-    print("🔄 Génération des rôles...")
+    print(" Génération des rôles...")
     roles = generer_roles(clients, contrats)
-    print(f"   ✅ {len(roles):,} rôles générés")
+    print(f"    {len(roles):,} rôles générés")
 
-    print("🔄 Injection des patterns suspects...")
+    print(" Injection des patterns suspects...")
     transactions = injecter_patterns_suspects(contrats, transactions)
     nb_suspects  = transactions["est_suspect"].sum()
-    print(f"   ✅ {nb_suspects:,} transactions suspectes injectées")
+    print(f"    {nb_suspects:,} transactions suspectes injectées")
 
     dataset = {
         "clients":      clients,
@@ -847,15 +847,15 @@ def generer_dataset_complet(
     }
 
     if save:
-        print("💾 Sauvegarde des données...")
+        print(" Sauvegarde des données...")
         clients.to_csv("data/synthetic/clients.csv", index=False)
         contrats.to_csv("data/synthetic/contrats.csv", index=False)
         fonds.to_csv("data/synthetic/fonds_uc.csv", index=False)
         transactions.to_csv("data/synthetic/transactions.csv", index=False)
         roles.to_csv("data/synthetic/roles.csv", index=False)
-        print("   ✅ Données sauvegardées dans data/synthetic/")
+        print("    Données sauvegardées dans data/synthetic/")
 
-    print("\n📊 Résumé du dataset :")
+    print("\n Résumé du dataset :")
     print(f"   Clients      : {len(clients):,}")
     print(f"   Contrats     : {len(contrats):,}")
     print(f"   Fonds UC     : {len(fonds):,}")
@@ -864,7 +864,7 @@ def generer_dataset_complet(
     print(f"   Suspects     : {nb_suspects:,}")
     print(f"   Taux suspect : {nb_suspects/len(transactions)*100:.1f}%")
 
-    print("\n📋 Distribution des transactions :")
+    print("\n Distribution des transactions :")
     dist = transactions["code_type_evt"].value_counts()
     for evt, count in dist.items():
         print(f"   {evt} : {count:,}")
